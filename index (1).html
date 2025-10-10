@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SITUAÇÕES</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    background: #f5f5f5;
+  }
+  h1 { text-align: center; }
+  #searchBox {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+  }
+  .client {
+    background: white;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-left: 5px solid #4CAF50;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  }
+  .field { margin: 4px 0; }
+  .field strong { color: #333; }
+  .no-results {
+    text-align: center;
+    font-style: italic;
+    color: #666;
+  }
+</style>
+</head>
+<body>
+
+<h1>SITUAÇÕES</h1>
+<input type="text" id="searchBox" placeholder="Escreva um nome... (e.x. João)" />
+
+<div id="results"></div>
+
+<script>
+async function loadClients() {
+  // fetch the raw text file
+  const res = await fetch('data.txt');
+  const text = await res.text();
+
+  // Split clients by blank lines
+  const blocks = text.trim().split(/\n\s*\n/);
+  return blocks.map(block => {
+    const client = {};
+    block.split('\n').forEach(line => {
+      const parts = line.split(':');
+      if (parts.length >= 2) {
+        const key = parts[0].trim();
+        const value = parts.slice(1).join(':').trim();
+        client[key] = value;
+      }
+    });
+    return client;
+  });
+}
+
+function displayClients(list) {
+  const results = document.getElementById('results');
+  results.innerHTML = '';
+  if (list.length === 0) {
+    results.innerHTML = '<div class="no-results">Cliente não encontrado</div>';
+    return;
+  }
+  list.forEach(client => {
+    const div = document.createElement('div');
+    div.className = 'client';
+    for (const [key, value] of Object.entries(client)) {
+      const field = document.createElement('div');
+      field.className = 'field';
+      field.innerHTML = `<strong>${key}:</strong> ${value}` + (key=="Nome" ? ` | <strong>Cliente de: </strong> ${client["Cliente de"]}` : "")
+      div.appendChild(field);
+    }
+    results.appendChild(div);
+  });
+}
+
+(async () => {
+  const clients = await loadClients();
+  const searchBox = document.getElementById('searchBox');
+
+  // show all clients initially
+  displayClients(clients);
+
+  searchBox.addEventListener('input', () => {
+    const term = searchBox.value.toLowerCase();
+    const filtered = clients.filter(c => (c["Nome"] || "").toLowerCase().includes(term));
+    displayClients(filtered);
+  });
+})();
+</script>
+</body>
+</html>
