@@ -2085,19 +2085,18 @@ Valor juros: 1000
 Pagamento esperado: 1150
 
 Nome: WESLEY SILVA PEREIRA
-Frequência: Diária
+Frequência: Personalizado
 Valor contrato: 1400
-Valor a receber: 15600
+Valor a receber: 10000
 Vencimento: 03/11/25
-Dias vencidos: 8
+Dias vencidos: 9
 Data de registro: 05/08/25
 Cliente de: Quitações Santos
-Parcelas: 315
-Parcelas pagas: 0
+Juros: 100%
+Vezes pago: 0
 Total pago: 0
-Em aberto: 15600
-Valor parcela: 50
-Pagamento esperado: 450
+Valor juros: 10000
+Pagamento esperado: 10000
 
 Nome: FELIPE JOSE DO NASCIMENTO FERREIRA
 Frequência: Diária
