@@ -1,10 +1,10 @@
-SITUAÇÕES 02/03/26
+SITUAÇÕES 03/03/26
 Nome: RENATO DA SILVA ARAUJO
 Frequência: Semanal
 Valor contrato: 485
 Valor a receber: 613
 Vencimento: 06/03/26
-Dias vencidos: -4
+Dias vencidos: -3
 Data de registro: 24/01/26
 Cliente de: Apexis
 Juros: 26.4%
@@ -13,12 +13,27 @@ Total pago: 512
 Valor juros: 128
 Pagamento esperado: 128
 
+Nome: DENILSON MARIANO NASCIMENTO DE SOUZA
+Frequência: Semanal
+Valor contrato: 900
+Valor a receber: 800
+Vencimento: 28/02/26
+Dias vencidos: 3
+Data de registro: 03/02/26
+Cliente de: Apexis
+Parcelas: 5
+Parcelas pagas: 0
+Total pago: 0
+Em aberto: 800
+Valor parcela: 160
+Pagamento esperado: 160
+
 Nome: GISELLI DOS SANTOS CALHEIRO
 Frequência: Semanal
 Valor contrato: 800
 Valor a receber: 1007
 Vencimento: 03/03/26
-Dias vencidos: -1
+Dias vencidos: 0
 Data de registro: 03/02/26
 Cliente de: Apexis
 Juros: 25.9%
@@ -32,7 +47,7 @@ Frequência: Quinzenal
 Valor contrato: 1000
 Valor a receber: 1396
 Vencimento: 05/03/26
-Dias vencidos: -3
+Dias vencidos: -2
 Data de registro: 03/02/26
 Cliente de: Apexis
 Juros: 39.6%
@@ -44,30 +59,30 @@ Pagamento esperado: 396
 Nome: AMANDA GASKIN STEPHEN
 Frequência: Diária
 Valor contrato: 1800
-Valor a receber: 480
-Vencimento: 02/03/26
+Valor a receber: 420
+Vencimento: 03/03/26
 Dias vencidos: 0
 Data de registro: 03/02/26
 Cliente de: Apexis
 Parcelas: 30
-Parcelas pagas: 22
-Total pago: 1320
-Em aberto: 480
+Parcelas pagas: 23
+Total pago: 1380
+Em aberto: 420
 Valor parcela: 60
 Pagamento esperado: 60
 
 Nome: DAVI VIEIRA DA SILVA
 Frequência: Diária
 Valor contrato: 1000
-Valor a receber: 1067
-Vencimento: 02/03/26
+Valor a receber: 970
+Vencimento: 03/03/26
 Dias vencidos: 0
 Data de registro: 03/02/26
 Cliente de: Apexis
 Parcelas: 20
-Parcelas pagas: 9
-Total pago: 873
-Em aberto: 1067
+Parcelas pagas: 10
+Total pago: 970
+Em aberto: 970
 Valor parcela: 97
 Pagamento esperado: 97
 
@@ -75,66 +90,51 @@ Nome: Leudecea Araujo Dos Santos
 Frequência: Semanal
 Valor contrato: 1000
 Valor a receber: 1258
-Vencimento: 02/03/26
-Dias vencidos: 0
+Vencimento: 09/03/26
+Dias vencidos: -6
 Data de registro: 02/02/26
 Cliente de: Apexis
 Juros: 25.8%
-Vezes pago: 3
-Total pago: 774
+Vezes pago: 4
+Total pago: 1032
 Valor juros: 258
 Pagamento esperado: 258
-
-Nome: SAMUEL DE SOUSA OLIVEIRA
-Frequência: Diária
-Valor contrato: 1000
-Valor a receber: 95
-Vencimento: 03/03/26
-Dias vencidos: -1
-Data de registro: 01/02/26
-Cliente de: Apexis
-Parcelas: 17
-Parcelas pagas: 16
-Total pago: 1520
-Em aberto: 95
-Valor parcela: 95
-Pagamento esperado: 95
 
 Nome: ALISSON RODRIGUES THURY
 Frequência: Diária
 Valor contrato: 1500
-Valor a receber: 1932
-Vencimento: 02/03/26
+Valor a receber: 1840
+Vencimento: 03/03/26
 Dias vencidos: 0
 Data de registro: 29/01/26
 Cliente de: Apexis
 Parcelas: 36
-Parcelas pagas: 15
-Total pago: 1380
-Em aberto: 1932
+Parcelas pagas: 16
+Total pago: 1472
+Em aberto: 1840
 Valor parcela: 92
 Pagamento esperado: 92
 
-Nome: MARIA JOSÉ SILVA COSTA
-Frequência: Quinzenal
-Valor contrato: 1100
-Valor a receber: 1396
-Vencimento: 03/03/26
-Dias vencidos: -1
-Data de registro: 17/01/26
+Nome: BRENO ROGÉRIO CRUZ
+Frequência: Semanal
+Valor contrato: 1000
+Valor a receber: 1258
+Vencimento: 07/03/26
+Dias vencidos: -4
+Data de registro: 13/02/26
 Cliente de: Apexis
-Juros: 36%
+Juros: 25.8%
 Vezes pago: 2
-Total pago: 792
-Valor juros: 396
-Pagamento esperado: 396
+Total pago: 516
+Valor juros: 258
+Pagamento esperado: 258
 
 Nome: ADAILDO ALEXANDRE DA SILVA
 Frequência: Semanal
 Valor contrato: 900
 Valor a receber: 1135
 Vencimento: 04/03/26
-Dias vencidos: -2
+Dias vencidos: -1
 Data de registro: 28/01/26
 Cliente de: Apexis
 Juros: 26.1%
@@ -143,26 +143,27 @@ Total pago: 940
 Valor juros: 235
 Pagamento esperado: 235
 
-Nome: ANTONIO CALVACANTE QUEIROZ NETO
-Frequência: Personalizado
-Valor contrato: 1000
-Valor a receber: 1000
-Vencimento: 10/03/26
-Dias vencidos: -8
-Data de registro: 04/02/26
+Nome: MAYCON DOUGLAS ALBUQUERQUE DE SOUZA
+Frequência: Diária
+Valor contrato: 800
+Valor a receber: 912
+Vencimento: 28/02/26
+Dias vencidos: 2
+Data de registro: 05/02/26
 Cliente de: Apexis
-Juros: 100%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 1000
-Pagamento esperado: 1000
+Parcelas: 20
+Parcelas pagas: 8
+Total pago: 608
+Em aberto: 912
+Valor parcela: 76
+Pagamento esperado: 228
 
 Nome: GEORGE LINHARES RODRIGUES JUNIOR
 Frequência: Quinzenal
 Valor contrato: 700
 Valor a receber: 956
 Vencimento: 10/03/26
-Dias vencidos: -8
+Dias vencidos: -7
 Data de registro: 24/01/26
 Cliente de: Apexis
 Juros: 36.5%
@@ -175,13 +176,13 @@ Nome: ADRIANO SILVA MUNIZ
 Frequência: Semanal
 Valor contrato: 1300
 Valor a receber: 1732
-Vencimento: 02/03/26
-Dias vencidos: 0
+Vencimento: 07/03/26
+Dias vencidos: -4
 Data de registro: 24/01/26
 Cliente de: Apexis
 Juros: 25.56%
-Vezes pago: 4
-Total pago: 1328
+Vezes pago: 5
+Total pago: 1660
 Valor juros: 332
 Pagamento esperado: 332
 
@@ -190,7 +191,7 @@ Frequência: Quinzenal
 Valor contrato: 500
 Valor a receber: 680
 Vencimento: 09/03/26
-Dias vencidos: -7
+Dias vencidos: -6
 Data de registro: 23/01/26
 Cliente de: Apexis
 Juros: 36.99%
@@ -203,22 +204,22 @@ Nome: SANDERLEY DA SILVA GOMES
 Frequência: Semanal
 Valor contrato: 500
 Valor a receber: 685
-Vencimento: 02/03/26
-Dias vencidos: 0
+Vencimento: 05/03/26
+Dias vencidos: -2
 Data de registro: 22/01/26
 Cliente de: Apexis
 Juros: 26.99%
-Vezes pago: 4
-Total pago: 540
+Vezes pago: 5
+Total pago: 675
 Valor juros: 135
-Pagamento esperado: 13
+Pagamento esperado: 135
 
 Nome: MATHEUS MAURICIO MOREIRA DE SOUZA
 Frequência: Semanal
 Valor contrato: 1000
 Valor a receber: 1258
 Vencimento: 06/03/26
-Dias vencidos: -4
+Dias vencidos: -3
 Data de registro: 22/01/26
 Cliente de: Apexis
 Juros: 25.8%
@@ -232,7 +233,7 @@ Frequência: Quinzenal
 Valor contrato: 500
 Valor a receber: 786
 Vencimento: 06/03/26
-Dias vencidos: -4
+Dias vencidos: -3
 Data de registro: 20/01/26
 Cliente de: Apexis
 Juros: 37.1%
@@ -246,7 +247,7 @@ Frequência: Semanal
 Valor contrato: 1300
 Valor a receber: 3000
 Vencimento: 02/03/26
-Dias vencidos: 0
+Dias vencidos: 1
 Data de registro: 19/01/26
 Cliente de: Apexis
 Parcelas: 15
@@ -256,11 +257,40 @@ Em aberto: 3000
 Valor parcela: 200
 Pagamento esperado: 100
 
+Nome: ASHLEY KELLY DOS SANTOS GALDINO
+Frequência: Quinzenal
+Valor contrato: 700
+Valor a receber: 1006
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 28/01/26
+Cliente de: Apexis
+Juros: 36.5%
+Vezes pago: 1
+Total pago: 256
+Valor juros: 256
+Pagamento esperado: 50
+
+Nome: RADSON ALEXANDRE RODRIGUES
+Frequência: Diária
+Valor contrato: 600
+Valor a receber: 300
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 10/02/26
+Cliente de: Apexis
+Parcelas: 18
+Parcelas pagas: 13
+Total pago: 780
+Em aberto: 300
+Valor parcela: 60
+Pagamento esperado: 60
+
 Nome: MARIA MICHELLE GRACILIA NASCIMENTO
 Frequência: Diária
 Valor contrato: 500
 Valor a receber: 265
-Vencimento: 02/03/26
+Vencimento: 03/03/26
 Dias vencidos: 0
 Data de registro: 13/02/26
 Cliente de: Apexis
@@ -271,70 +301,27 @@ Em aberto: 265
 Valor parcela: 53
 Pagamento esperado: 56
 
-Nome: ASHLEY KELLY DOS SANTOS GALDINO
-Frequência: Quinzenal
-Valor contrato: 700
-Valor a receber: 956
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 28/01/26
-Cliente de: Apexis
-Juros: 36.5%
-Vezes pago: 1
-Total pago: 256
-Valor juros: 256
-Pagamento esperado: 100
-
-Nome: PABLO ALEJANDRO ALEJANDRO DE ABREU BENTO
-Frequência: Semanal
-Valor contrato: 435
-Valor a receber: 702
-Vencimento: 03/03/26
-Dias vencidos: -1
-Data de registro: 10/02/26
-Cliente de: Apexis
-Juros: 26.99%
-Vezes pago: 1
-Total pago: 117
-Valor juros: 117
-Pagamento esperado: 117
-
 Nome: Alberto Cosmo Silva Dos Santos
 Frequência: Diária
 Valor contrato: 800
-Valor a receber: 546
-Vencimento: 02/03/26
+Valor a receber: 468
+Vencimento: 03/03/26
 Dias vencidos: 0
 Data de registro: 12/02/26
 Cliente de: Apexis
 Parcelas: 17
-Parcelas pagas: 10
-Total pago: 780
-Em aberto: 546
+Parcelas pagas: 11
+Total pago: 858
+Em aberto: 468
 Valor parcela: 78
 Pagamento esperado: 78
-
-Nome: WILSON GRUDTNER NETO_
-Frequência: Diária
-Valor contrato: 400
-Valor a receber: 43
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 23/02/26
-Cliente de: Apexis
-Parcelas: 15
-Parcelas pagas: 14
-Total pago: 602
-Em aberto: 43
-Valor parcela: 43
-Pagamento esperado: 43
 
 Nome: ARTUR GOES MARTINS
 Frequência: Semanal
 Valor contrato: 1000
 Valor a receber: 1208
 Vencimento: 05/03/26
-Dias vencidos: -3
+Dias vencidos: -2
 Data de registro: 12/02/26
 Cliente de: Apexis
 Juros: 25.8%
@@ -348,7 +335,7 @@ Frequência: Semanal
 Valor contrato: 500
 Valor a receber: 685
 Vencimento: 05/03/26
-Dias vencidos: -3
+Dias vencidos: -2
 Data de registro: 12/02/26
 Cliente de: Apexis
 Juros: 26.99%
@@ -362,7 +349,7 @@ Frequência: Semanal
 Valor contrato: 1000
 Valor a receber: 1258
 Vencimento: 05/03/26
-Dias vencidos: -3
+Dias vencidos: -2
 Data de registro: 12/02/26
 Cliente de: Apexis
 Juros: 25.8%
@@ -374,15 +361,15 @@ Pagamento esperado: 258
 Nome: GEOVANI FELIPE DOS SANTOS
 Frequência: Diária
 Valor contrato: 1000
-Valor a receber: 368
-Vencimento: 02/03/26
+Valor a receber: 276
+Vencimento: 03/03/26
 Dias vencidos: 0
 Data de registro: 12/02/26
 Cliente de: Apexis
 Parcelas: 18
-Parcelas pagas: 14
-Total pago: 1288
-Em aberto: 368
+Parcelas pagas: 15
+Total pago: 1380
+Em aberto: 276
 Valor parcela: 92
 Pagamento esperado: 92
 
@@ -390,7 +377,7 @@ Nome: OZIEL DO NASCIMENTO OLIVEIRA
 Frequência: Diária
 Valor contrato: 1000
 Valor a receber: 679
-Vencimento: 02/03/26
+Vencimento: 03/03/26
 Dias vencidos: 0
 Data de registro: 11/02/26
 Cliente de: Apexis
@@ -401,57 +388,12 @@ Em aberto: 679
 Valor parcela: 97
 Pagamento esperado: 97
 
-Nome: NELRISON WANDERLEY DE LIMA BARBOSA
-Frequência: Diária
-Valor contrato: 350
-Valor a receber: 216
-Vencimento: 04/03/26
-Dias vencidos: -2
-Data de registro: 11/02/26
-Cliente de: Apexis
-Parcelas: 16
-Parcelas pagas: 10
-Total pago: 360
-Em aberto: 216
-Valor parcela: 36
-Pagamento esperado: 36
-
-Nome: DENILSON MARIANO NASCIMENTO DE SOUZA
-Frequência: Semanal
-Valor contrato: 900
-Valor a receber: 800
-Vencimento: 28/02/26
-Dias vencidos: 2
-Data de registro: 03/02/26
-Cliente de: Apexis
-Parcelas: 5
-Parcelas pagas: 0
-Total pago: 0
-Em aberto: 800
-Valor parcela: 160
-Pagamento esperado: 160
-
-Nome: RADSON ALEXANDRE RODRIGUES
-Frequência: Diária
-Valor contrato: 600
-Valor a receber: 360
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 10/02/26
-Cliente de: Apexis
-Parcelas: 18
-Parcelas pagas: 12
-Total pago: 720
-Em aberto: 360
-Valor parcela: 60
-Pagamento esperado: 60
-
 Nome: URYAS SILVA MORAES
 Frequência: Quinzenal
 Valor contrato: 700
 Valor a receber: 910
 Vencimento: 06/03/26
-Dias vencidos: -4
+Dias vencidos: -3
 Data de registro: 04/02/26
 Cliente de: Apexis
 Juros: 29.99%
@@ -460,12 +402,54 @@ Total pago: 210
 Valor juros: 210
 Pagamento esperado: 210
 
+Nome: CAETANO ALMEIDA DA SILVA__
+Frequência: Semanal
+Valor contrato: 900
+Valor a receber: 1132
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 10/02/26
+Cliente de: Apexis
+Juros: 25.77%
+Vezes pago: 2
+Total pago: 464
+Valor juros: 232
+Pagamento esperado: 232
+
+Nome: ANTONIO CALVACANTE QUEIROZ NETO
+Frequência: Personalizado
+Valor contrato: 1000
+Valor a receber: 1000
+Vencimento: 10/03/26
+Dias vencidos: -7
+Data de registro: 04/02/26
+Cliente de: Apexis
+Juros: 100%
+Vezes pago: 0
+Total pago: 0
+Valor juros: 1000
+Pagamento esperado: 1000
+
+Nome: PABLO ALEJANDRO ALEJANDRO DE ABREU BENTO
+Frequência: Semanal
+Valor contrato: 435
+Valor a receber: 702
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 10/02/26
+Cliente de: Apexis
+Juros: 26.99%
+Vezes pago: 1
+Total pago: 117
+Valor juros: 117
+Pagamento esperado: 117
+
 Nome: RAFAELA KAROLINE DA SILVA
 Frequência: Personalizado
 Valor contrato: 900
 Valor a receber: 1200
 Vencimento: 03/03/26
-Dias vencidos: -1
+Dias vencidos: 0
 Data de registro: 09/02/26
 Cliente de: Apexis
 Juros: 50%
@@ -479,7 +463,7 @@ Frequência: Semanal
 Valor contrato: 1000
 Valor a receber: 1500
 Vencimento: 02/03/26
-Dias vencidos: 0
+Dias vencidos: 1
 Data de registro: 09/02/26
 Cliente de: Apexis
 Parcelas: 5
@@ -494,7 +478,7 @@ Frequência: Quinzenal
 Valor contrato: 4000
 Valor a receber: 5400
 Vencimento: 08/03/26
-Dias vencidos: -6
+Dias vencidos: -5
 Data de registro: 06/02/26
 Cliente de: Apexis
 Juros: 35%
@@ -508,7 +492,7 @@ Frequência: Quinzenal
 Valor contrato: 1100
 Valor a receber: 1546
 Vencimento: 08/03/26
-Dias vencidos: -6
+Dias vencidos: -5
 Data de registro: 06/02/26
 Cliente de: Apexis
 Juros: 35.99%
@@ -522,7 +506,7 @@ Frequência: Semanal
 Valor contrato: 1100
 Valor a receber: 1000
 Vencimento: 06/03/26
-Dias vencidos: -4
+Dias vencidos: -3
 Data de registro: 06/02/26
 Cliente de: Apexis
 Parcelas: 3
@@ -537,7 +521,7 @@ Frequência: Semanal
 Valor contrato: 499
 Valor a receber: 634
 Vencimento: 07/03/26
-Dias vencidos: -5
+Dias vencidos: -4
 Data de registro: 05/02/26
 Cliente de: Apexis
 Juros: 26.99%
@@ -546,84 +530,85 @@ Total pago: 405
 Valor juros: 135
 Pagamento esperado: 135
 
-Nome: MAYCON DOUGLAS ALBUQUERQUE DE SOUZA
-Frequência: Diária
-Valor contrato: 800
-Valor a receber: 912
-Vencimento: 28/02/26
-Dias vencidos: 1
-Data de registro: 05/02/26
-Cliente de: Apexis
-Parcelas: 20
-Parcelas pagas: 8
-Total pago: 608
-Em aberto: 912
-Valor parcela: 76
-Pagamento esperado: 152
-
-Nome: JOSELIA SILVA COSTA
-Frequência: Quinzenal
-Valor contrato: 1000
-Valor a receber: 1460
-Vencimento: 02/03/26
-Dias vencidos: 0
+Nome: RAIMUNDO NONATO CARVALHO DE CASTRO NETO
+Frequência: Semanal
+Valor contrato: 500
+Valor a receber: 635
+Vencimento: 06/03/26
+Dias vencidos: -3
 Data de registro: 16/01/26
 Cliente de: Apexis
-Juros: 36%
-Vezes pago: 2
-Total pago: 720
-Valor juros: 360
-Pagamento esperado: 360
+Juros: 26.8%
+Vezes pago: 6
+Total pago: 810
+Valor juros: 135
+Pagamento esperado: 135
 
-Nome: CAETANO ALMEIDA DA SILVA__
-Frequência: Semanal
-Valor contrato: 900
-Valor a receber: 1132
-Vencimento: 03/03/26
+Nome: NELRISON WANDERLEY DE LIMA BARBOSA
+Frequência: Diária
+Valor contrato: 350
+Valor a receber: 216
+Vencimento: 04/03/26
 Dias vencidos: -1
-Data de registro: 10/02/26
+Data de registro: 11/02/26
 Cliente de: Apexis
-Juros: 25.77%
-Vezes pago: 2
-Total pago: 464
-Valor juros: 232
-Pagamento esperado: 232
+Parcelas: 16
+Parcelas pagas: 10
+Total pago: 360
+Em aberto: 216
+Valor parcela: 36
+Pagamento esperado: 36
 
-Nome: MIDIAN OLIVEIRA DO VALLE_
-Frequência: Quinzenal
-Valor contrato: 900
-Valor a receber: 1313
-Vencimento: 15/03/26
-Dias vencidos: -13
-Data de registro: 14/11/25
+Nome: NATALIA FELICIO RODRIGUES
+Frequência: Semanal
+Valor contrato: 1000
+Valor a receber: 300
+Vencimento: 04/03/26
+Dias vencidos: -1
+Data de registro: 21/11/25
 Cliente de: Apexis
-Juros: 43.1%
-Vezes pago: 7
-Total pago: 2716
-Valor juros: 388
-Pagamento esperado: 388
+Parcelas: 10
+Parcelas pagas: 8
+Total pago: 1200
+Em aberto: 300
+Valor parcela: 150
+Pagamento esperado: 150
+
+Nome: ELLEN OLIVEIRA DOS SANTOS_
+Frequência: Quinzenal
+Valor contrato: 500
+Valor a receber: 686
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 17/01/26
+Cliente de: Apexis
+Juros: 37.1%
+Vezes pago: 2
+Total pago: 372
+Valor juros: 186
+Pagamento esperado: 186
 
 Nome: HUDSON TOMAZ DA SILVA_
 Frequência: Diária
 Valor contrato: 4450
-Valor a receber: 6000
-Vencimento: 02/03/26
+Valor a receber: 5925
+Vencimento: 03/03/26
 Dias vencidos: 0
 Data de registro: 09/12/25
 Cliente de: Apexis
 Parcelas: 101
-Parcelas pagas: 21
-Total pago: 1575
-Em aberto: 6000
+Parcelas pagas: 22
+Total pago: 1650
+Em aberto: 5925
 Valor parcela: 75
-Pagamento esperado: 150
+Pagamento esperado: 75
 
 Nome: TIAGO ARIOSTO COSTA NASCIMENTO
 Frequência: Diária
 Valor contrato: 500
 Valor a receber: 2100
 Vencimento: 02/03/26
-Dias vencidos: 0
+Dias vencidos: 1
 Data de registro: 08/12/25
 Cliente de: Apexis
 Parcelas: 38
@@ -631,20 +616,20 @@ Parcelas pagas: 8
 Total pago: 560
 Em aberto: 2100
 Valor parcela: 70
-Pagamento esperado: 70
+Pagamento esperado: 140
 
 Nome: JOHN GARRY GARCIA
 Frequência: Diária
 Valor contrato: 500
-Valor a receber: 616
-Vencimento: 02/03/26
+Valor a receber: 572
+Vencimento: 03/03/26
 Dias vencidos: 0
 Data de registro: 03/12/25
 Cliente de: Apexis
 Parcelas: 20
-Parcelas pagas: 6
-Total pago: 264
-Em aberto: 616
+Parcelas pagas: 7
+Total pago: 308
+Em aberto: 572
 Valor parcela: 44
 Pagamento esperado: 44
 
@@ -653,7 +638,7 @@ Frequência: Semanal
 Valor contrato: 1100
 Valor a receber: 800
 Vencimento: 03/03/26
-Dias vencidos: -1
+Dias vencidos: 0
 Data de registro: 28/11/25
 Cliente de: Apexis
 Parcelas: 10
@@ -668,7 +653,7 @@ Frequência: Semanal
 Valor contrato: 500
 Valor a receber: 2000
 Vencimento: 05/03/26
-Dias vencidos: -3
+Dias vencidos: -2
 Data de registro: 28/11/25
 Cliente de: Apexis
 Parcelas: 17
@@ -683,7 +668,7 @@ Frequência: Semanal
 Valor contrato: 500
 Valor a receber: 576
 Vencimento: 06/03/26
-Dias vencidos: -4
+Dias vencidos: -3
 Data de registro: 28/11/25
 Cliente de: Apexis
 Juros: 26%
@@ -692,56 +677,40 @@ Total pago: 1716
 Valor juros: 132
 Pagamento esperado: 132
 
-Nome: BRUNA NAYARA DOS SANTOS MORAES
+Nome: HUGO SILVA SOUSA
 Frequência: Semanal
-Valor contrato: 1007
-Valor a receber: 1257
-Vencimento: 06/03/26
+Valor contrato: 138
+Valor a receber: 173
+Vencimento: 07/03/26
 Dias vencidos: -4
-Data de registro: 26/11/25
+Data de registro: 27/12/25
 Cliente de: Apexis
-Juros: 25.5%
-Vezes pago: 13
-Total pago: 3341
-Valor juros: 257
-Pagamento esperado: 257
+Juros: 25.71429%
+Vezes pago: 9
+Total pago: 315
+Valor juros: 35
+Pagamento esperado: 35
 
-Nome: ALCINEY SILVA DOS SANTOS JUNIOR
-Frequência: Diária
-Valor contrato: 500
-Valor a receber: 795
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 28/02/26
-Cliente de: Apexis
-Parcelas: 15
-Parcelas pagas: 0
-Total pago: 0
-Em aberto: 795
-Valor parcela: 53
-Pagamento esperado: 53
-
-Nome: NATALIA FELICIO RODRIGUES
+Nome: HENRIQUE GOMES DE SOUZA
 Frequência: Semanal
 Valor contrato: 1000
-Valor a receber: 300
-Vencimento: 04/03/26
-Dias vencidos: -2
-Data de registro: 21/11/25
+Valor a receber: 1300
+Vencimento: 06/03/26
+Dias vencidos: -3
+Data de registro: 26/11/25
 Cliente de: Apexis
-Parcelas: 10
-Parcelas pagas: 8
-Total pago: 1200
-Em aberto: 300
-Valor parcela: 150
-Pagamento esperado: 150
+Juros: 25%
+Vezes pago: 13
+Total pago: 3276
+Valor juros: 252
+Pagamento esperado: 252
 
 Nome: DANIEL ALBUQUERQUE PINTO
 Frequência: Quinzenal
 Valor contrato: 1100
 Valor a receber: 1507
 Vencimento: 11/03/26
-Dias vencidos: -9
+Dias vencidos: -8
 Data de registro: 11/12/25
 Cliente de: Apexis
 Juros: 37%
@@ -750,11 +719,25 @@ Total pago: 2050
 Valor juros: 410
 Pagamento esperado: 410
 
+Nome: MIDIAN OLIVEIRA DO VALLE_
+Frequência: Quinzenal
+Valor contrato: 900
+Valor a receber: 1313
+Vencimento: 15/03/26
+Dias vencidos: -12
+Data de registro: 14/11/25
+Cliente de: Apexis
+Juros: 43.1%
+Vezes pago: 7
+Total pago: 2716
+Valor juros: 388
+Pagamento esperado: 388
+
 Nome: DIOGO MATHEUS SILVA LOPES
 Frequência: Diária
 Valor contrato: 700
 Valor a receber: 480
-Vencimento: 02/03/26
+Vencimento: 03/03/26
 Dias vencidos: 0
 Data de registro: 17/11/25
 Cliente de: Apexis
@@ -770,7 +753,7 @@ Frequência: Semanal
 Valor contrato: 2500
 Valor a receber: 3175
 Vencimento: 03/03/26
-Dias vencidos: -1
+Dias vencidos: 0
 Data de registro: 04/11/25
 Cliente de: Apexis
 Juros: 25%
@@ -784,7 +767,7 @@ Frequência: Semanal
 Valor contrato: 1000
 Valor a receber: 2100
 Vencimento: 07/03/26
-Dias vencidos: -5
+Dias vencidos: -4
 Data de registro: 03/11/25
 Cliente de: Apexis
 Parcelas: 19
@@ -799,7 +782,7 @@ Frequência: Semanal
 Valor contrato: 1000
 Valor a receber: 500
 Vencimento: 02/03/26
-Dias vencidos: 0
+Dias vencidos: 1
 Data de registro: 31/10/25
 Cliente de: Apexis
 Parcelas: 10
@@ -814,7 +797,7 @@ Frequência: Semanal
 Valor contrato: 1000
 Valor a receber: 200
 Vencimento: 07/03/26
-Dias vencidos: -5
+Dias vencidos: -4
 Data de registro: 28/10/25
 Cliente de: Apexis
 Parcelas: 12
@@ -829,7 +812,7 @@ Frequência: Semanal
 Valor contrato: 500
 Valor a receber: 670
 Vencimento: 05/03/26
-Dias vencidos: -3
+Dias vencidos: -2
 Data de registro: 16/10/25
 Cliente de: Apexis
 Juros: 30%
@@ -843,7 +826,7 @@ Frequência: Semanal
 Valor contrato: 1000
 Valor a receber: 1450
 Vencimento: 28/02/26
-Dias vencidos: 2
+Dias vencidos: 3
 Data de registro: 17/10/25
 Cliente de: Apexis
 Juros: 25%
@@ -852,69 +835,55 @@ Total pago: 4500
 Valor juros: 250
 Pagamento esperado: 250
 
-Nome: DIJACI JOSE DA SILVA
+Nome: BRUNA NAYARA DOS SANTOS MORAES
 Frequência: Semanal
-Valor contrato: 700
-Valor a receber: 200
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 14/10/25
-Cliente de: Apexis
-Parcelas: 7
-Parcelas pagas: 6
-Total pago: 1200
-Em aberto: 200
-Valor parcela: 200
-Pagamento esperado: 200
-
-Nome: HENRIQUE GOMES DE SOUZA
-Frequência: Semanal
-Valor contrato: 1000
-Valor a receber: 1300
+Valor contrato: 1007
+Valor a receber: 1257
 Vencimento: 06/03/26
-Dias vencidos: -4
+Dias vencidos: -3
 Data de registro: 26/11/25
 Cliente de: Apexis
-Juros: 25%
+Juros: 25.5%
 Vezes pago: 13
-Total pago: 3276
-Valor juros: 252
-Pagamento esperado: 252
+Total pago: 3341
+Valor juros: 257
+Pagamento esperado: 257
 
-Nome: SUELLEN DE SOUZA PEREIRA
-Frequência: Quinzenal
-Valor contrato: 1100
-Valor a receber: 1510
-Vencimento: 07/03/26
-Dias vencidos: -5
-Data de registro: 22/12/25
+Nome: ELLEN OLIVEIRA DOS SANTOS_
+Frequência: Diária
+Valor contrato: 800
+Valor a receber: 800
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 20/01/26
 Cliente de: Apexis
-Juros: 37.27%
-Vezes pago: 4
-Total pago: 1640
-Valor juros: 410
-Pagamento esperado: 410
+Parcelas: 30
+Parcelas pagas: 14
+Total pago: 700
+Em aberto: 800
+Valor parcela: 50
+Pagamento esperado: 50
 
-Nome: RAIMUNDO NONATO CARVALHO DE CASTRO NETO
-Frequência: Semanal
-Valor contrato: 500
-Valor a receber: 635
-Vencimento: 06/03/26
-Dias vencidos: -4
+Nome: JOSELIA SILVA COSTA
+Frequência: Quinzenal
+Valor contrato: 1000
+Valor a receber: 1360
+Vencimento: 03/03/26
+Dias vencidos: 0
 Data de registro: 16/01/26
 Cliente de: Apexis
-Juros: 26.8%
-Vezes pago: 6
-Total pago: 810
-Valor juros: 135
-Pagamento esperado: 135
+Juros: 36%
+Vezes pago: 2
+Total pago: 720
+Valor juros: 360
+Pagamento esperado: 360
 
 Nome: ADÃO RODRIGUES DA SILVA
 Frequência: Diária
 Valor contrato: 800
 Valor a receber: 702
 Vencimento: 02/03/26
-Dias vencidos: 0
+Dias vencidos: 1
 Data de registro: 14/01/26
 Cliente de: Apexis
 Parcelas: 22
@@ -922,13 +891,13 @@ Parcelas pagas: 13
 Total pago: 1014
 Em aberto: 702
 Valor parcela: 78
-Pagamento esperado: 78
+Pagamento esperado: 156
 
 Nome: JADER ONETY DE NEGREIROS COSTA
 Frequência: Semanal
 Valor contrato: 1000
 Valor a receber: 1300
-Vencimento: 02/03/26
+Vencimento: 03/03/26
 Dias vencidos: 0
 Data de registro: 12/01/26
 Cliente de: Apexis
@@ -943,7 +912,7 @@ Frequência: Quinzenal
 Valor contrato: 1100
 Valor a receber: 1510
 Vencimento: 13/03/26
-Dias vencidos: -11
+Dias vencidos: -10
 Data de registro: 12/01/26
 Cliente de: Apexis
 Juros: 37.27%
@@ -957,7 +926,7 @@ Frequência: Semanal
 Valor contrato: 500
 Valor a receber: 422
 Vencimento: 04/03/26
-Dias vencidos: -2
+Dias vencidos: -1
 Data de registro: 12/01/26
 Cliente de: Apexis
 Parcelas: 3
@@ -970,14 +939,14 @@ Pagamento esperado: 211
 Nome: JOEL DA SILVA FERREIRA
 Frequência: Semanal
 Valor contrato: 900
-Valor a receber: 1275
-Vencimento: 02/03/26
-Dias vencidos: 0
+Valor a receber: 1225
+Vencimento: 09/03/26
+Dias vencidos: -6
 Data de registro: 12/01/26
 Cliente de: Apexis
 Juros: 25%
-Vezes pago: 5
-Total pago: 1125
+Vezes pago: 7
+Total pago: 1575
 Valor juros: 225
 Pagamento esperado: 225
 
@@ -986,7 +955,7 @@ Frequência: Semanal
 Valor contrato: 600
 Valor a receber: 750
 Vencimento: 07/03/26
-Dias vencidos: -5
+Dias vencidos: -4
 Data de registro: 10/01/26
 Cliente de: Apexis
 Juros: 25%
@@ -995,27 +964,12 @@ Total pago: 1050
 Valor juros: 150
 Pagamento esperado: 150
 
-Nome: RAIMUNDO NONATO DA SILVA LIMA
-Frequência: Diária
-Valor contrato: 700
-Valor a receber: 1005
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 09/01/26
-Cliente de: Apexis
-Parcelas: 25
-Parcelas pagas: 10
-Total pago: 670
-Em aberto: 1005
-Valor parcela: 67
-Pagamento esperado: 201
-
 Nome: PAULO HENRIQUE DA SILVA NOGUEIRA
 Frequência: Semanal
 Valor contrato: 1000
 Valor a receber: 1302
 Vencimento: 04/03/26
-Dias vencidos: -2
+Dias vencidos: -1
 Data de registro: 10/12/25
 Cliente de: Apexis
 Juros: 25.2%
@@ -1024,41 +978,55 @@ Total pago: 2772
 Valor juros: 252
 Pagamento esperado: 252
 
-Nome: ELLEN OLIVEIRA DOS SANTOS_
+Nome: JOELMA MANGABEIRA CRUZ
 Frequência: Diária
-Valor contrato: 800
-Valor a receber: 800
-Vencimento: 02/03/26
+Valor contrato: 300
+Valor a receber: 759
+Vencimento: 03/03/26
 Dias vencidos: 0
-Data de registro: 20/01/26
+Data de registro: 09/01/26
 Cliente de: Apexis
-Parcelas: 30
-Parcelas pagas: 14
-Total pago: 700
-Em aberto: 800
-Valor parcela: 50
-Pagamento esperado: 50
+Parcelas: 16
+Parcelas pagas: 5
+Total pago: 345
+Em aberto: 759
+Valor parcela: 69
+Pagamento esperado: 69
 
-Nome: HUGO SILVA SOUSA
-Frequência: Semanal
-Valor contrato: 138
-Valor a receber: 173
-Vencimento: 07/03/26
-Dias vencidos: -5
-Data de registro: 27/12/25
+Nome: MARIA JOSÉ SILVA COSTA
+Frequência: Quinzenal
+Valor contrato: 1100
+Valor a receber: 1396
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 17/01/26
 Cliente de: Apexis
-Juros: 25.71429%
-Vezes pago: 9
-Total pago: 315
-Valor juros: 35
-Pagamento esperado: 35
+Juros: 36%
+Vezes pago: 2
+Total pago: 792
+Valor juros: 396
+Pagamento esperado: 396
+
+Nome: SUELLEN DE SOUZA PEREIRA
+Frequência: Quinzenal
+Valor contrato: 1100
+Valor a receber: 1510
+Vencimento: 07/03/26
+Dias vencidos: -4
+Data de registro: 22/12/25
+Cliente de: Apexis
+Juros: 37.27%
+Vezes pago: 4
+Total pago: 1640
+Valor juros: 410
+Pagamento esperado: 410
 
 Nome: TALLES ANDRADE DE SÁ
 Frequência: Quinzenal
 Valor contrato: 700
 Valor a receber: 1090
 Vencimento: 07/03/26
-Dias vencidos: -5
+Dias vencidos: -4
 Data de registro: 22/12/25
 Cliente de: Apexis
 Juros: 34.22%
@@ -1072,7 +1040,7 @@ Frequência: Quinzenal
 Valor contrato: 900
 Valor a receber: 1240
 Vencimento: 07/03/26
-Dias vencidos: -5
+Dias vencidos: -4
 Data de registro: 22/12/25
 Cliente de: Apexis
 Juros: 37.7%
@@ -1086,7 +1054,7 @@ Frequência: Quinzenal
 Valor contrato: 900
 Valor a receber: 1340
 Vencimento: 03/03/26
-Dias vencidos: -1
+Dias vencidos: 0
 Data de registro: 18/12/25
 Cliente de: Apexis
 Juros: 37.77777%
@@ -1098,29 +1066,29 @@ Pagamento esperado: 340
 Nome: JAILSON PEREIRA DE AGUAIR
 Frequência: Semanal
 Valor contrato: 1000
-Valor a receber: 1785
-Vencimento: 02/03/26
-Dias vencidos: 0
+Valor a receber: 1530
+Vencimento: 09/03/26
+Dias vencidos: -6
 Data de registro: 18/12/25
 Cliente de: Apexis
 Parcelas: 7
-Parcelas pagas: 0
-Total pago: 0
-Em aberto: 1785
+Parcelas pagas: 1
+Total pago: 255
+Em aberto: 1530
 Valor parcela: 255
-Pagamento esperado: 105
+Pagamento esperado: 255
 
 Nome: LUZINETE MENEZES MORAIS
 Frequência: Quinzenal
 Valor contrato: 1100
 Valor a receber: 1510
-Vencimento: 02/03/26
-Dias vencidos: 0
+Vencimento: 17/03/26
+Dias vencidos: -14
 Data de registro: 17/12/25
 Cliente de: Apexis
 Juros: 37.27%
-Vezes pago: 4
-Total pago: 1640
+Vezes pago: 5
+Total pago: 2050
 Valor juros: 410
 Pagamento esperado: 410
 
@@ -1129,7 +1097,7 @@ Frequência: Quinzenal
 Valor contrato: 900
 Valor a receber: 1239
 Vencimento: 13/03/26
-Dias vencidos: -11
+Dias vencidos: -10
 Data de registro: 13/12/25
 Cliente de: Apexis
 Juros: 37.7%
@@ -1143,7 +1111,7 @@ Frequência: Semanal
 Valor contrato: 500
 Valor a receber: 632
 Vencimento: 07/03/26
-Dias vencidos: -5
+Dias vencidos: -4
 Data de registro: 13/12/25
 Cliente de: Apexis
 Juros: 26.3%
@@ -1152,70 +1120,72 @@ Total pago: 1452
 Valor juros: 132
 Pagamento esperado: 132
 
-Nome: ELLEN OLIVEIRA DOS SANTOS_
-Frequência: Quinzenal
-Valor contrato: 500
-Valor a receber: 686
-Vencimento: 03/03/26
-Dias vencidos: -1
-Data de registro: 17/01/26
-Cliente de: Apexis
-Juros: 37.1%
-Vezes pago: 2
-Total pago: 372
-Valor juros: 186
-Pagamento esperado: 186
-
-Nome: JOELMA MANGABEIRA CRUZ
+Nome: RAIMUNDO NONATO DA SILVA LIMA
 Frequência: Diária
-Valor contrato: 300
-Valor a receber: 897
-Vencimento: 02/03/26
+Valor contrato: 700
+Valor a receber: 938
+Vencimento: 03/03/26
 Dias vencidos: 0
 Data de registro: 09/01/26
 Cliente de: Apexis
-Parcelas: 16
-Parcelas pagas: 3
-Total pago: 207
-Em aberto: 897
-Valor parcela: 69
-Pagamento esperado: 138
+Parcelas: 25
+Parcelas pagas: 11
+Total pago: 737
+Em aberto: 938
+Valor parcela: 67
+Pagamento esperado: 67
 
-Nome: BRUCE WENDERSON NERES VIANA
-Frequência: Quinzenal
-Valor contrato: 1000
-Valor a receber: 1396
-Vencimento: 15/03/26
-Dias vencidos: -13
-Data de registro: 24/02/26
+Nome: NEYLON MELO MACEDO
+Frequência: Diária
+Valor contrato: 500
+Valor a receber: 583
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 25/02/26
 Cliente de: Apexis
-Juros: 39.6%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 396
-Pagamento esperado: 396
+Parcelas: 15
+Parcelas pagas: 4
+Total pago: 212
+Em aberto: 583
+Valor parcela: 53
+Pagamento esperado: 53
 
 Nome: DANIEL FERREIRA DOS SANTOS
 Frequência: Diária
 Valor contrato: 700
-Valor a receber: 552
-Vencimento: 02/03/26
+Valor a receber: 621
+Vencimento: 03/03/26
 Dias vencidos: 0
 Data de registro: 18/02/26
 Cliente de: Apexis
-Parcelas: 16
+Parcelas: 17
 Parcelas pagas: 8
 Total pago: 552
-Em aberto: 552
+Em aberto: 621
 Valor parcela: 69
 Pagamento esperado: 69
+
+Nome: ALCINEY SILVA DOS SANTOS JUNIOR
+Frequência: Diária
+Valor contrato: 500
+Valor a receber: 742
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 28/02/26
+Cliente de: Apexis
+Parcelas: 15
+Parcelas pagas: 1
+Total pago: 53
+Em aberto: 742
+Valor parcela: 53
+Pagamento esperado: 53
 
 Nome: LUZINETE MENEZES MORAIS
 Frequência: Semanal
 Valor contrato: 1000
 Valor a receber: 1258
 Vencimento: 05/03/26
-Dias vencidos: -3
+Dias vencidos: -2
 Data de registro: 19/02/26
 Cliente de: Apexis
 Juros: 25.8%
@@ -1224,26 +1194,12 @@ Total pago: 258
 Valor juros: 258
 Pagamento esperado: 258
 
-Nome: ANDREY DA SILVA ARAUJO_
-Frequência: Semanal
-Valor contrato: 2000
-Valor a receber: 2550
-Vencimento: 28/02/26
-Dias vencidos: 2
-Data de registro: 19/02/26
-Cliente de: Apexis
-Juros: 25%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 500
-Pagamento esperado: 500
-
 Nome: CARLOS AUGUSTO CARDOSO FILHO_
 Frequência: Semanal
 Valor contrato: 1000
 Valor a receber: 1258
 Vencimento: 05/03/26
-Dias vencidos: -3
+Dias vencidos: -2
 Data de registro: 01/02/26
 Cliente de: Apexis
 Juros: 25.8%
@@ -1257,7 +1213,7 @@ Frequência: Semanal
 Valor contrato: 500
 Valor a receber: 635
 Vencimento: 05/03/26
-Dias vencidos: -3
+Dias vencidos: -2
 Data de registro: 11/02/26
 Cliente de: Apexis
 Juros: 26.99%
@@ -1271,7 +1227,7 @@ Frequência: Semanal
 Valor contrato: 500
 Valor a receber: 635
 Vencimento: 05/03/26
-Dias vencidos: -3
+Dias vencidos: -2
 Data de registro: 19/02/26
 Cliente de: Apexis
 Juros: 26.99%
@@ -1285,7 +1241,7 @@ Frequência: Semanal
 Valor contrato: 435
 Valor a receber: 552
 Vencimento: 05/03/26
-Dias vencidos: -3
+Dias vencidos: -2
 Data de registro: 19/02/26
 Cliente de: Apexis
 Juros: 26.99%
@@ -1299,7 +1255,7 @@ Frequência: Semanal
 Valor contrato: 500
 Valor a receber: 635
 Vencimento: 05/03/26
-Dias vencidos: -3
+Dias vencidos: -2
 Data de registro: 19/02/26
 Cliente de: Apexis
 Juros: 26.99%
@@ -1308,11 +1264,114 @@ Total pago: 135
 Valor juros: 135
 Pagamento esperado: 135
 
+Nome: EDENILSON ROSA
+Frequência: Diária
+Valor contrato: 1000
+Valor a receber: 1164
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 25/02/26
+Cliente de: Apexis
+Parcelas: 16
+Parcelas pagas: 4
+Total pago: 388
+Em aberto: 1164
+Valor parcela: 97
+Pagamento esperado: 97
+
+Nome: EVERTON COSTA DE SOUZA
+Frequência: Diária
+Valor contrato: 500
+Valor a receber: 265
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 18/02/26
+Cliente de: Apexis
+Parcelas: 15
+Parcelas pagas: 10
+Total pago: 530
+Em aberto: 265
+Valor parcela: 53
+Pagamento esperado: 53
+
+Nome: RUBENILSON GUSMÃO DE SOUZA
+Frequência: Diária
+Valor contrato: 500
+Valor a receber: 742
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 28/02/26
+Cliente de: Apexis
+Parcelas: 15
+Parcelas pagas: 1
+Total pago: 53
+Em aberto: 742
+Valor parcela: 53
+Pagamento esperado: 53
+
+Nome: NELRISON WANDERLEY DE LIMA BARBOSA
+Frequência: Diária
+Valor contrato: 1000
+Valor a receber: 1552
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 02/03/26
+Cliente de: Apexis
+Parcelas: 16
+Parcelas pagas: 0
+Total pago: 0
+Em aberto: 1552
+Valor parcela: 97
+Pagamento esperado: 97
+
+Nome: ELTON COSTA DE SOUZA
+Frequência: Diária
+Valor contrato: 700
+Valor a receber: 966
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 26/02/26
+Cliente de: Apexis
+Parcelas: 16
+Parcelas pagas: 2
+Total pago: 138
+Em aberto: 966
+Valor parcela: 69
+Pagamento esperado: 69
+
+Nome: JOSE MARCOS VINICIUS SILVA DO NASCIMENTO
+Frequência: Semanal
+Valor contrato: 1000
+Valor a receber: 1358
+Vencimento: 07/03/26
+Dias vencidos: -4
+Data de registro: 23/02/26
+Cliente de: Apexis
+Juros: 25.8%
+Vezes pago: 0
+Total pago: 0
+Valor juros: 258
+Pagamento esperado: 258
+
+Nome: PAULO RONIERE COSTA VIEIRA
+Frequência: Semanal
+Valor contrato: 557
+Valor a receber: 702
+Vencimento: 09/03/26
+Dias vencidos: -6
+Data de registro: 23/02/26
+Cliente de: Apexis
+Juros: 26.1%
+Vezes pago: 1
+Total pago: 145
+Valor juros: 145
+Pagamento esperado: 145
+
 Nome: FÁBIO DE SOUZA PROFINO
 Frequência: Diária
 Valor contrato: 600
 Valor a receber: 549
-Vencimento: 02/03/26
+Vencimento: 03/03/26
 Dias vencidos: 0
 Data de registro: 20/02/26
 Cliente de: Apexis
@@ -1323,12 +1382,27 @@ Em aberto: 549
 Valor parcela: 61
 Pagamento esperado: 61
 
+Nome: JOAO CARLOS DO NASCIMENTO LIMA
+Frequência: Diária
+Valor contrato: 600
+Valor a receber: 63
+Vencimento: 05/03/26
+Dias vencidos: -2
+Data de registro: 13/02/26
+Cliente de: Apexis
+Parcelas: 16
+Parcelas pagas: 15
+Total pago: 945
+Em aberto: 63
+Valor parcela: 63
+Pagamento esperado: 2
+
 Nome: JOSE VANIO DA COSTA RIBEIRO
 Frequência: Semanal
 Valor contrato: 900
 Valor a receber: 1089
 Vencimento: 06/03/26
-Dias vencidos: -4
+Dias vencidos: -3
 Data de registro: 20/02/26
 Cliente de: Apexis
 Juros: 21%
@@ -1337,104 +1411,18 @@ Total pago: 189
 Valor juros: 189
 Pagamento esperado: 189
 
-Nome: PAULO RONIERE COSTA VIEIRA
-Frequência: Semanal
-Valor contrato: 600
-Valor a receber: 757
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 23/02/26
-Cliente de: Apexis
-Juros: 26.1%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 157
-Pagamento esperado: 157
-
-Nome: JOSE MARCOS VINICIUS SILVA DO NASCIMENTO
-Frequência: Semanal
-Valor contrato: 1000
-Valor a receber: 1253
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 23/02/26
-Cliente de: Apexis
-Juros: 25.3%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 253
-Pagamento esperado: 253
-
-Nome: TIAGO MARTINS ANDRADE
-Frequência: Semanal
-Valor contrato: 700
-Valor a receber: 885
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 23/02/26
-Cliente de: Apexis
-Juros: 26.4%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 185
-Pagamento esperado: 185
-
-Nome: EVERTON COSTA DE SOUZA
-Frequência: Diária
-Valor contrato: 500
-Valor a receber: 318
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 18/02/26
-Cliente de: Apexis
-Parcelas: 15
-Parcelas pagas: 9
-Total pago: 477
-Em aberto: 318
-Valor parcela: 53
-Pagamento esperado: 53
-
-Nome: BRENO ROGÉRIO CRUZ
-Frequência: Semanal
-Valor contrato: 1000
-Valor a receber: 1258
-Vencimento: 07/03/26
-Dias vencidos: -5
-Data de registro: 13/02/26
-Cliente de: Apexis
-Juros: 25.8%
-Vezes pago: 2
-Total pago: 516
-Valor juros: 258
-Pagamento esperado: 258
-
-Nome: RUBENILSON GUSMÃO DE SOUZA
-Frequência: Diária
-Valor contrato: 500
-Valor a receber: 795
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 28/02/26
-Cliente de: Apexis
-Parcelas: 15
-Parcelas pagas: 0
-Total pago: 0
-Em aberto: 795
-Valor parcela: 53
-Pagamento esperado: 53
-
 Nome: MARLUCE BEZERRA DA SILVA
 Frequência: Diária
 Valor contrato: 1600
-Valor a receber: 2250
-Vencimento: 02/03/26
+Valor a receber: 2100
+Vencimento: 03/03/26
 Dias vencidos: 0
 Data de registro: 27/02/26
 Cliente de: Apexis
 Parcelas: 16
-Parcelas pagas: 1
-Total pago: 150
-Em aberto: 2250
+Parcelas pagas: 2
+Total pago: 300
+Em aberto: 2100
 Valor parcela: 150
 Pagamento esperado: 150
 
@@ -1443,7 +1431,7 @@ Frequência: Semanal
 Valor contrato: 700
 Valor a receber: 885
 Vencimento: 06/03/26
-Dias vencidos: -4
+Dias vencidos: -3
 Data de registro: 27/02/26
 Cliente de: Apexis
 Juros: 26.4%
@@ -1457,7 +1445,7 @@ Frequência: Diária
 Valor contrato: 1000
 Valor a receber: 1649
 Vencimento: 02/03/26
-Dias vencidos: 0
+Dias vencidos: 1
 Data de registro: 27/02/26
 Cliente de: Apexis
 Parcelas: 17
@@ -1465,178 +1453,30 @@ Parcelas pagas: 0
 Total pago: 0
 Em aberto: 1649
 Valor parcela: 97
-Pagamento esperado: 97
+Pagamento esperado: 194
 
 Nome: ANDERSON CLEYTON AZEVEDO DE SOUZA
 Frequência: Diária
 Valor contrato: 350
-Valor a receber: 504
-Vencimento: 02/03/26
+Valor a receber: 468
+Vencimento: 03/03/26
 Dias vencidos: 0
 Data de registro: 27/02/26
 Cliente de: Apexis
 Parcelas: 15
-Parcelas pagas: 1
-Total pago: 36
-Em aberto: 504
+Parcelas pagas: 2
+Total pago: 72
+Em aberto: 468
 Valor parcela: 36
 Pagamento esperado: 36
 
-Nome: JOSÉ EUDSON NOGUEIRA DE SOUZA
-Frequência: Semanal
-Valor contrato: 1000
-Valor a receber: 1257
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 23/02/26
-Cliente de: Apexis
-Juros: 25.7%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 257
-Pagamento esperado: 257
-
-Nome: NEYLON MELO MACEDO
-Frequência: Diária
-Valor contrato: 500
-Valor a receber: 636
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 25/02/26
-Cliente de: Apexis
-Parcelas: 15
-Parcelas pagas: 3
-Total pago: 159
-Em aberto: 636
-Valor parcela: 53
-Pagamento esperado: 53
-
-Nome: JOHN HERIC DE ANDRADE
-Frequência: Semanal
-Valor contrato: 1000
-Valor a receber: 1253
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 23/02/26
-Cliente de: Apexis
-Juros: 25.3%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 253
-Pagamento esperado: 253
-
-Nome: MÁVIA LOURDES SANTOS DUARTE_
-Frequência: Diária
-Valor contrato: 900
-Valor a receber: 1144
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 25/02/26
-Cliente de: Apexis
-Parcelas: 16
-Parcelas pagas: 3
-Total pago: 264
-Em aberto: 1144
-Valor parcela: 88
-Pagamento esperado: 88
-
-Nome: ZILDA DAVID DA SILVA
-Frequência: Diária
-Valor contrato: 900
-Valor a receber: 1408
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 25/02/26
-Cliente de: Apexis
-Parcelas: 17
-Parcelas pagas: 1
-Total pago: 88
-Em aberto: 1408
-Valor parcela: 88
-Pagamento esperado: 88
-
 Nome: TIAGO MARTINS ANDRADE
-Frequência: Diária
-Valor contrato: 500
-Valor a receber: 742
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 24/02/26
-Cliente de: Apexis
-Parcelas: 16
-Parcelas pagas: 2
-Total pago: 106
-Em aberto: 742
-Valor parcela: 53
-Pagamento esperado: 53
-
-Nome: LEANDRO CARDOSO DE CARVALHO
-Frequência: Diária
-Valor contrato: 5150
-Valor a receber: 4760
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 24/02/26
-Cliente de: Apexis
-Parcelas: 60
-Parcelas pagas: 4
-Total pago: 340
-Em aberto: 4760
-Valor parcela: 85
-Pagamento esperado: 85
-
-Nome: ISABEL NASCIMENTO OROSCO
-Frequência: Diária
-Valor contrato: 1500
-Valor a receber: 2400
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 24/02/26
-Cliente de: Apexis
-Parcelas: 26
-Parcelas pagas: 2
-Total pago: 200
-Em aberto: 2400
-Valor parcela: 100
-Pagamento esperado: 100
-
-Nome: EDENILSON ROSA
-Frequência: Diária
-Valor contrato: 1000
-Valor a receber: 1261
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 25/02/26
-Cliente de: Apexis
-Parcelas: 16
-Parcelas pagas: 3
-Total pago: 291
-Em aberto: 1261
-Valor parcela: 97
-Pagamento esperado: 97
-
-Nome: ELTON COSTA DE SOUZA
-Frequência: Diária
-Valor contrato: 700
-Valor a receber: 966
-Vencimento: 03/03/26
-Dias vencidos: -1
-Data de registro: 26/02/26
-Cliente de: Apexis
-Parcelas: 16
-Parcelas pagas: 2
-Total pago: 138
-Em aberto: 966
-Valor parcela: 69
-Pagamento esperado: 69
-
-Nome: DIENESON OLIVEIRA FERREIRA
 Frequência: Semanal
 Valor contrato: 700
-Valor a receber: 985
-Vencimento: 02/03/26
+Valor a receber: 885
+Vencimento: 03/03/26
 Dias vencidos: 0
-Data de registro: 16/02/26
+Data de registro: 23/02/26
 Cliente de: Apexis
 Juros: 26.4%
 Vezes pago: 0
@@ -1644,127 +1484,100 @@ Total pago: 0
 Valor juros: 185
 Pagamento esperado: 185
 
-Nome: NATHALYA KRISTINY VIEIRA DA SILVA
-Frequência: Semanal
-Valor contrato: 1000
-Valor a receber: 1308
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 14/01/26
-Cliente de: Apexis
-Juros: 25.8%
-Vezes pago: 1
-Total pago: 258
-Valor juros: 258
-Pagamento esperado: 258
-
-Nome: ROBERTO HENRIQUE COIMBRA RIBEIRO
-Frequência: Diária
-Valor contrato: 350
-Valor a receber: 252
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 14/02/26
-Cliente de: Apexis
-Parcelas: 15
-Parcelas pagas: 8
-Total pago: 288
-Em aberto: 252
-Valor parcela: 36
-Pagamento esperado: 36
-
-Nome: JOAO CARLOS DO NASCIMENTO LIMA
-Frequência: Diária
-Valor contrato: 600
-Valor a receber: 252
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 13/02/26
-Cliente de: Apexis
-Parcelas: 16
-Parcelas pagas: 12
-Total pago: 756
-Em aberto: 252
-Valor parcela: 63
-Pagamento esperado: 63
-
-Nome: LUCIENE SANTOS DA SILVA
-Frequência: Semanal
-Valor contrato: 500
-Valor a receber: 635
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 14/02/26
-Cliente de: Apexis
-Juros: 26.99%
-Vezes pago: 1
-Total pago: 135
-Valor juros: 135
-Pagamento esperado: 135
-
-Nome: RAINERSON DOS SANTOS MACIEL
-Frequência: Diária
-Valor contrato: 1000
-Valor a receber: 1755
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 14/02/26
-Cliente de: Apexis
-Parcelas: 32
-Parcelas pagas: 5
-Total pago: 325
-Em aberto: 1755
-Valor parcela: 65
-Pagamento esperado: 50
-
-Nome: TENNANT MILLER CARVALHO PANTOJA
-Frequência: Diária
-Valor contrato: 350
-Valor a receber: 180
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 17/02/26
-Cliente de: Apexis
-Parcelas: 15
-Parcelas pagas: 10
-Total pago: 360
-Em aberto: 180
-Valor parcela: 36
-Pagamento esperado: 36
-
-Nome: LUIZ RODRIGUES BARBOSA OLIVEIRA
+Nome: BRUCE WENDERSON NERES VIANA
 Frequência: Quinzenal
-Valor contrato: 1100
-Valor a receber: 1496
-Vencimento: 03/03/26
-Dias vencidos: -1
-Data de registro: 16/02/26
+Valor contrato: 1000
+Valor a receber: 1396
+Vencimento: 15/03/26
+Dias vencidos: -12
+Data de registro: 24/02/26
 Cliente de: Apexis
-Juros: 35.99%
+Juros: 39.6%
 Vezes pago: 0
 Total pago: 0
 Valor juros: 396
 Pagamento esperado: 396
 
-Nome: MILE DA SILVA SOUZA
-Frequência: Quinzenal
-Valor contrato: 900
-Valor a receber: 1226
-Vencimento: 04/03/26
-Dias vencidos: -2
-Data de registro: 17/02/26
+Nome: TIAGO MARTINS ANDRADE
+Frequência: Diária
+Valor contrato: 500
+Valor a receber: 689
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 24/02/26
 Cliente de: Apexis
-Juros: 36.2%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 326
-Pagamento esperado: 326
+Parcelas: 16
+Parcelas pagas: 3
+Total pago: 159
+Em aberto: 689
+Valor parcela: 53
+Pagamento esperado: 53
+
+Nome: ROBERTO HENRIQUE COIMBRA RIBEIRO
+Frequência: Diária
+Valor contrato: 350
+Valor a receber: 216
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 14/02/26
+Cliente de: Apexis
+Parcelas: 15
+Parcelas pagas: 9
+Total pago: 324
+Em aberto: 216
+Valor parcela: 36
+Pagamento esperado: 37
+
+Nome: RAINERSON DOS SANTOS MACIEL
+Frequência: Diária
+Valor contrato: 1000
+Valor a receber: 1820
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 14/02/26
+Cliente de: Apexis
+Parcelas: 33
+Parcelas pagas: 5
+Total pago: 325
+Em aberto: 1820
+Valor parcela: 65
+Pagamento esperado: 50
+
+Nome: LEANDRO CARDOSO DE CARVALHO
+Frequência: Diária
+Valor contrato: 5150
+Valor a receber: 4845
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 24/02/26
+Cliente de: Apexis
+Parcelas: 61
+Parcelas pagas: 4
+Total pago: 340
+Em aberto: 4845
+Valor parcela: 85
+Pagamento esperado: 85
+
+Nome: ISABEL NASCIMENTO OROSCO
+Frequência: Diária
+Valor contrato: 1500
+Valor a receber: 2300
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 24/02/26
+Cliente de: Apexis
+Parcelas: 26
+Parcelas pagas: 3
+Total pago: 300
+Em aberto: 2300
+Valor parcela: 100
+Pagamento esperado: 100
 
 Nome: RICARDO DA SILVA DE ABREU
 Frequência: Diária
 Valor contrato: 350
 Valor a receber: 175
-Vencimento: 02/03/26
+Vencimento: 03/03/26
 Dias vencidos: 0
 Data de registro: 16/02/26
 Cliente de: Apexis
@@ -1775,200 +1588,171 @@ Em aberto: 175
 Valor parcela: 35
 Pagamento esperado: 35
 
-Nome: ANDREY DA SILVA ARAUJO
+Nome: TENNANT MILLER CARVALHO PANTOJA
 Frequência: Diária
-Valor contrato: 2000
-Valor a receber: 970
-Vencimento: 28/02/26
-Dias vencidos: 1
-Data de registro: 10/02/26
-Cliente de: Beiço
-Parcelas: 16
+Valor contrato: 350
+Valor a receber: 144
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 17/02/26
+Cliente de: Apexis
+Parcelas: 15
 Parcelas pagas: 11
-Total pago: 2134
-Em aberto: 970
-Valor parcela: 194
-Pagamento esperado: 388
+Total pago: 396
+Em aberto: 144
+Valor parcela: 36
+Pagamento esperado: 36
+
+Nome: DIENESON OLIVEIRA FERREIRA
+Frequência: Semanal
+Valor contrato: 700
+Valor a receber: 985
+Vencimento: 02/03/26
+Dias vencidos: 1
+Data de registro: 16/02/26
+Cliente de: Apexis
+Juros: 26.4%
+Vezes pago: 0
+Total pago: 0
+Valor juros: 185
+Pagamento esperado: 185
+
+Nome: MILE DA SILVA SOUZA
+Frequência: Quinzenal
+Valor contrato: 900
+Valor a receber: 1226
+Vencimento: 04/03/26
+Dias vencidos: -1
+Data de registro: 17/02/26
+Cliente de: Apexis
+Juros: 36.2%
+Vezes pago: 0
+Total pago: 0
+Valor juros: 326
+Pagamento esperado: 326
+
+Nome: JOHN HERIC DE ANDRADE
+Frequência: Semanal
+Valor contrato: 1000
+Valor a receber: 1258
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 23/02/26
+Cliente de: Apexis
+Juros: 25.8%
+Vezes pago: 0
+Total pago: 0
+Valor juros: 258
+Pagamento esperado: 258
+
+Nome: MÁVIA LOURDES SANTOS DUARTE_
+Frequência: Diária
+Valor contrato: 900
+Valor a receber: 1056
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 25/02/26
+Cliente de: Apexis
+Parcelas: 16
+Parcelas pagas: 4
+Total pago: 352
+Em aberto: 1056
+Valor parcela: 88
+Pagamento esperado: 88
+
+Nome: JOSÉ EUDSON NOGUEIRA DE SOUZA
+Frequência: Semanal
+Valor contrato: 700
+Valor a receber: 880
+Vencimento: 09/03/26
+Dias vencidos: -6
+Data de registro: 23/02/26
+Cliente de: Apexis
+Juros: 25.7%
+Vezes pago: 1
+Total pago: 180
+Valor juros: 180
+Pagamento esperado: 180
+
+Nome: NATHALYA KRISTINY VIEIRA DA SILVA
+Frequência: Semanal
+Valor contrato: 1000
+Valor a receber: 1308
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 14/01/26
+Cliente de: Apexis
+Juros: 25.8%
+Vezes pago: 1
+Total pago: 258
+Valor juros: 258
+Pagamento esperado: 258
+
+Nome: ZILDA DAVID DA SILVA
+Frequência: Diária
+Valor contrato: 900
+Valor a receber: 1320
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 25/02/26
+Cliente de: Apexis
+Parcelas: 17
+Parcelas pagas: 2
+Total pago: 176
+Em aberto: 1320
+Valor parcela: 88
+Pagamento esperado: 88
 
 Nome: ROBERTO SANTOS DE JESUS_
 Frequência: Diária
 Valor contrato: 1000
-Valor a receber: 250
-Vencimento: 25/02/26
-Dias vencidos: 4
+Valor a receber: 150
+Vencimento: 03/03/26
+Dias vencidos: 0
 Data de registro: 19/12/25
 Cliente de: Beiço
 Parcelas: 25
-Parcelas pagas: 20
-Total pago: 1000
-Em aberto: 250
+Parcelas pagas: 22
+Total pago: 1100
+Em aberto: 150
 Valor parcela: 50
-Pagamento esperado: 250
+Pagamento esperado: 50
 
-Nome: ELVIS THOMAS SILVA
+Nome: VALDEIR SOUSA BEZERRA_
 Frequência: Semanal
 Valor contrato: 700
-Valor a receber: 885
-Vencimento: 04/03/26
-Dias vencidos: -2
-Data de registro: 11/02/26
-Cliente de: Beiço
-Juros: 26.4%
-Vezes pago: 2
-Total pago: 370
-Valor juros: 185
-Pagamento esperado: 185
-
-Nome: DEIVISON SILVA COSTA
-Frequência: Diária
-Valor contrato: 500
-Valor a receber: 795
-Vencimento: 02/03/26
+Valor a receber: 880
+Vencimento: 03/03/26
 Dias vencidos: 0
-Data de registro: 27/02/26
+Data de registro: 19/01/26
 Cliente de: Beiço
-Parcelas: 15
-Parcelas pagas: 0
-Total pago: 0
-Em aberto: 795
-Valor parcela: 53
-Pagamento esperado: 53
-
-Nome: FABIO JUNHO SOUSA SENA
-Frequência: Mensal
-Valor contrato: 800
-Valor a receber: 1120
-Vencimento: 07/03/26
-Dias vencidos: -5
-Data de registro: 20/10/25
-Cliente de: Beiço
-Juros: 40%
-Vezes pago: 4
-Total pago: 1280
-Valor juros: 320
-Pagamento esperado: 320
-
-Nome: TATIANA DA CONCEIÇÃO OLIVEIRA
-Frequência: Mensal
-Valor contrato: 1500
-Valor a receber: 2250
-Vencimento: 10/03/26
-Dias vencidos: -8
-Data de registro: 10/01/26
-Cliente de: Beiço
-Juros: 50%
-Vezes pago: 1
-Total pago: 750
-Valor juros: 750
-Pagamento esperado: 750
-
-Nome: EDGAR LIMA DA SILVA
-Frequência: Diária
-Valor contrato: 500
-Valor a receber: 742
-Vencimento: 27/02/26
-Dias vencidos: 2
-Data de registro: 25/02/26
-Cliente de: Beiço
-Parcelas: 15
-Parcelas pagas: 1
-Total pago: 53
-Em aberto: 742
-Valor parcela: 53
-Pagamento esperado: 159
-
-Nome: NADSON PEREIRA GAIA
-Frequência: Semanal
-Valor contrato: 500
-Valor a receber: 635
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 23/02/26
-Cliente de: Beiço
-Juros: 26.99%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 135
-Pagamento esperado: 135
-
-Nome: RICARDO DO SANTOS NUNES
-Frequência: Diária
-Valor contrato: 500
-Valor a receber: 795
-Vencimento: 28/02/26
-Dias vencidos: 1
-Data de registro: 27/02/26
-Cliente de: Beiço
-Parcelas: 15
-Parcelas pagas: 0
-Total pago: 0
-Em aberto: 795
-Valor parcela: 53
-Pagamento esperado: 106
-
-Nome: MATHEUS LARA BORBA
-Frequência: Semanal
-Valor contrato: 1000
-Valor a receber: 1375
-Vencimento: 07/03/26
-Dias vencidos: -5
-Data de registro: 28/02/26
-Cliente de: Beiço
-Juros: 37.5%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 375
-Pagamento esperado: 375
-
-Nome: PAULINO PEREIRA ANTHONY HUMPHREY
-Frequência: Semanal
-Valor contrato: 500
-Valor a receber: 680
-Vencimento: 05/03/26
-Dias vencidos: -3
-Data de registro: 12/02/26
-Cliente de: Beiço
-Juros: 35.99%
-Vezes pago: 2
-Total pago: 360
+Juros: 25.71429%
+Vezes pago: 5
+Total pago: 900
 Valor juros: 180
 Pagamento esperado: 180
 
-Nome: RAIMUNDO FERNANDES FARIAS
-Frequência: Semanal
-Valor contrato: 500
-Valor a receber: 632
-Vencimento: 04/03/26
-Dias vencidos: -2
-Data de registro: 14/01/26
+Nome: SILVIA CABRAL M DE ARAUJO
+Frequência: Quinzenal
+Valor contrato: 2500
+Valor a receber: 3375
+Vencimento: 12/03/26
+Dias vencidos: -9
+Data de registro: 25/02/26
 Cliente de: Beiço
-Juros: 26.4%
-Vezes pago: 7
-Total pago: 924
-Valor juros: 132
-Pagamento esperado: 132
+Juros: 35%
+Vezes pago: 0
+Total pago: 0
+Valor juros: 875
+Pagamento esperado: 875
 
-Nome: LIDIAME DE SEMA MELO
-Frequência: Mensal
-Valor contrato: 1500
-Valor a receber: 2250
-Vencimento: 28/03/26
-Dias vencidos: -26
-Data de registro: 16/10/25
-Cliente de: Beiço
-Juros: 50%
-Vezes pago: 5
-Total pago: 3750
-Valor juros: 750
-Pagamento esperado: 750
-
-Nome: JULIANA KETINNEY MACEDO MALAQUIAS
+Nome: ERICKSSON ENMMANUEL MOTA MADRID
 Frequência: Semanal
 Valor contrato: 1000
 Valor a receber: 1258
-Vencimento: 06/03/26
-Dias vencidos: -4
-Data de registro: 27/02/26
+Vencimento: 04/03/26
+Dias vencidos: -1
+Data de registro: 25/02/26
 Cliente de: Beiço
 Juros: 25.8%
 Vezes pago: 0
@@ -1976,54 +1760,11 @@ Total pago: 0
 Valor juros: 258
 Pagamento esperado: 258
 
-Nome: BRENDA DE SOUZA SALAZAR
-Frequência: Quinzenal
-Valor contrato: 700
-Valor a receber: 956
-Vencimento: 16/03/26
-Dias vencidos: -14
-Data de registro: 14/02/26
-Cliente de: Beiço
-Juros: 36.5%
-Vezes pago: 1
-Total pago: 256
-Valor juros: 256
-Pagamento esperado: 256
-
-Nome: ERLENILZA DO BONFIM DE SOUZA CIRILO
-Frequência: Semanal
-Valor contrato: 700
-Valor a receber: 885
-Vencimento: 05/03/26
-Dias vencidos: -3
-Data de registro: 12/02/26
-Cliente de: Beiço
-Juros: 26.4%
-Vezes pago: 2
-Total pago: 370
-Valor juros: 185
-Pagamento esperado: 185
-
-Nome: JOEL CONCEICAO MACIEL
-Frequência: Diária
-Valor contrato: 1000
-Valor a receber: 1260
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 25/02/26
-Cliente de: Beiço
-Parcelas: 15
-Parcelas pagas: 3
-Total pago: 315
-Em aberto: 1260
-Valor parcela: 105
-Pagamento esperado: 105
-
 Nome: CLAUDIA MARA FÉLIX LEITE
 Frequência: Quinzenal
 Valor contrato: 1100
 Valor a receber: 1536
-Vencimento: 02/03/26
+Vencimento: 03/03/26
 Dias vencidos: 0
 Data de registro: 16/01/26
 Cliente de: Beiço
@@ -2031,14 +1772,14 @@ Juros: 39.6%
 Vezes pago: 2
 Total pago: 872
 Valor juros: 436
-Pagamento esperado: 436
+Pagamento esperado: 40
 
 Nome: HELEN FERREIRA DE MATOS_
 Frequência: Mensal
 Valor contrato: 900
 Valor a receber: 1300
 Vencimento: 10/03/26
-Dias vencidos: -8
+Dias vencidos: -7
 Data de registro: 10/12/25
 Cliente de: Beiço
 Juros: 44.44%
@@ -2047,12 +1788,26 @@ Total pago: 800
 Valor juros: 400
 Pagamento esperado: 400
 
+Nome: CELESTINO AMORIM DE MATOS
+Frequência: Semanal
+Valor contrato: 1000
+Valor a receber: 1258
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 14/01/26
+Cliente de: Beiço
+Juros: 25.8%
+Vezes pago: 5
+Total pago: 1290
+Valor juros: 258
+Pagamento esperado: 258
+
 Nome: CARLIANA DA SILVA SOUZA
 Frequência: Mensal
 Valor contrato: 1000
 Valor a receber: 1450
 Vencimento: 11/03/26
-Dias vencidos: -9
+Dias vencidos: -8
 Data de registro: 18/12/25
 Cliente de: Beiço
 Juros: 45%
@@ -2061,26 +1816,185 @@ Total pago: 900
 Valor juros: 450
 Pagamento esperado: 450
 
-Nome: JORDANIA DAMASCENO
+Nome: DAYENE DOS SANTOS MAGALHÃES E SILVA
+Frequência: Mensal
+Valor contrato: 500
+Valor a receber: 900
+Vencimento: 11/03/26
+Dias vencidos: -8
+Data de registro: 11/12/25
+Cliente de: Beiço
+Juros: 50%
+Vezes pago: 2
+Total pago: 500
+Valor juros: 250
+Pagamento esperado: 250
+
+Nome: VALESCA SUENE DE LIMA DIAS
+Frequência: Quinzenal
+Valor contrato: 1500
+Valor a receber: 1895
+Vencimento: 12/03/26
+Dias vencidos: -9
+Data de registro: 25/02/26
+Cliente de: Beiço
+Juros: 26.34%
+Vezes pago: 0
+Total pago: 0
+Valor juros: 396
+Pagamento esperado: 396
+
+Nome: RAIMUNDO FERNANDES FARIAS
+Frequência: Semanal
+Valor contrato: 500
+Valor a receber: 632
+Vencimento: 04/03/26
+Dias vencidos: -1
+Data de registro: 14/01/26
+Cliente de: Beiço
+Juros: 26.4%
+Vezes pago: 7
+Total pago: 924
+Valor juros: 132
+Pagamento esperado: 132
+
+Nome: TATIANA DA CONCEIÇÃO OLIVEIRA
 Frequência: Mensal
 Valor contrato: 1500
-Valor a receber: 2100
-Vencimento: 06/03/26
-Dias vencidos: -4
-Data de registro: 06/11/25
+Valor a receber: 2250
+Vencimento: 10/03/26
+Dias vencidos: -7
+Data de registro: 10/01/26
 Cliente de: Beiço
-Juros: 40%
-Vezes pago: 3
-Total pago: 1800
+Juros: 50%
+Vezes pago: 1
+Total pago: 750
+Valor juros: 750
+Pagamento esperado: 750
+
+Nome: WILSON GRUDTNER NETO
+Frequência: Quinzenal
+Valor contrato: 500
+Valor a receber: 750
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 16/01/26
+Cliente de: Beiço
+Juros: 50%
+Vezes pago: 1
+Total pago: 250
+Valor juros: 250
+Pagamento esperado: 250
+
+Nome: DEIVISON SILVA COSTA
+Frequência: Diária
+Valor contrato: 500
+Valor a receber: 742
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 27/02/26
+Cliente de: Beiço
+Parcelas: 15
+Parcelas pagas: 1
+Total pago: 53
+Em aberto: 742
+Valor parcela: 53
+Pagamento esperado: 53
+
+Nome: GEOVAN BARROS DE SOUZA
+Frequência: Diária
+Valor contrato: 600
+Valor a receber: 693
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 25/02/26
+Cliente de: Beiço
+Parcelas: 15
+Parcelas pagas: 4
+Total pago: 252
+Em aberto: 693
+Valor parcela: 63
+Pagamento esperado: 63
+
+Nome: JOEL CONCEICAO MACIEL
+Frequência: Diária
+Valor contrato: 1000
+Valor a receber: 1155
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 25/02/26
+Cliente de: Beiço
+Parcelas: 15
+Parcelas pagas: 4
+Total pago: 420
+Em aberto: 1155
+Valor parcela: 105
+Pagamento esperado: 105
+
+Nome: NADSON PEREIRA GAIA
+Frequência: Semanal
+Valor contrato: 500
+Valor a receber: 635
+Vencimento: 09/03/26
+Dias vencidos: -6
+Data de registro: 23/02/26
+Cliente de: Beiço
+Juros: 26.99%
+Vezes pago: 1
+Total pago: 135
+Valor juros: 135
+Pagamento esperado: 135
+
+Nome: ANA ANGELICA BEZERRA FELIX
+Frequência: Diária
+Valor contrato: 700
+Valor a receber: 759
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 16/02/26
+Cliente de: Beiço
+Parcelas: 19
+Parcelas pagas: 8
+Total pago: 552
+Em aberto: 759
+Valor parcela: 69
+Pagamento esperado: 69
+
+Nome: ALEXANDRE PEREIRA DA SILVA
+Frequência: Mensal
+Valor contrato: 1000
+Valor a receber: 4400
+Vencimento: 06/03/26
+Dias vencidos: -3
+Data de registro: 08/09/25
+Cliente de: Beiço
+Juros: 50%
+Vezes pago: 2
+Total pago: 1200
 Valor juros: 600
 Pagamento esperado: 600
+
+Nome: LUIS FELIPE GUIMARÃES NASCIMENTO
+Frequência: Diária
+Valor contrato: 350
+Valor a receber: 360
+Vencimento: 02/03/26
+Dias vencidos: 1
+Data de registro: 17/02/26
+Cliente de: Beiço
+Parcelas: 18
+Parcelas pagas: 8
+Total pago: 288
+Em aberto: 360
+Valor parcela: 36
+Pagamento esperado: 72
 
 Nome: KLEYTON WILLIAM BORGES DA COSTA
 Frequência: Semanal
 Valor contrato: 1500
 Valor a receber: 1520
 Vencimento: 03/03/26
-Dias vencidos: -1
+Dias vencidos: 0
 Data de registro: 09/02/26
 Cliente de: Beiço
 Parcelas: 6
@@ -2090,111 +2004,27 @@ Em aberto: 1520
 Valor parcela: 380
 Pagamento esperado: 380
 
-Nome: GEOVAN BARROS DE SOUZA
+Nome: ELISSON PANHUN NOBRE
 Frequência: Diária
-Valor contrato: 600
-Valor a receber: 756
+Valor contrato: 350
+Valor a receber: 270
 Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 25/02/26
+Dias vencidos: 1
+Data de registro: 13/02/26
 Cliente de: Beiço
-Parcelas: 15
-Parcelas pagas: 3
-Total pago: 189
-Em aberto: 756
-Valor parcela: 63
-Pagamento esperado: 63
-
-Nome: VALESCA SUENE DE LIMA DIAS
-Frequência: Quinzenal
-Valor contrato: 1500
-Valor a receber: 1895
-Vencimento: 12/03/26
-Dias vencidos: -10
-Data de registro: 25/02/26
-Cliente de: Beiço
-Juros: 26.34%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 396
-Pagamento esperado: 396
-
-Nome: DAYENE DOS SANTOS MAGALHÃES E SILVA
-Frequência: Mensal
-Valor contrato: 500
-Valor a receber: 900
-Vencimento: 11/03/26
-Dias vencidos: -9
-Data de registro: 11/12/25
-Cliente de: Beiço
-Juros: 50%
-Vezes pago: 2
-Total pago: 500
-Valor juros: 250
-Pagamento esperado: 250
-
-Nome: ERICKSSON ENMMANUEL MOTA MADRID
-Frequência: Semanal
-Valor contrato: 1000
-Valor a receber: 1253
-Vencimento: 04/03/26
-Dias vencidos: -2
-Data de registro: 25/02/26
-Cliente de: Beiço
-Juros: 25.3%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 253
-Pagamento esperado: 253
-
-Nome: CELESTINO AMORIM DE MATOS
-Frequência: Semanal
-Valor contrato: 1000
-Valor a receber: 1258
-Vencimento: 03/03/26
-Dias vencidos: -1
-Data de registro: 14/01/26
-Cliente de: Beiço
-Juros: 25.8%
-Vezes pago: 5
-Total pago: 1290
-Valor juros: 258
-Pagamento esperado: 258
-
-Nome: SILVIA CABRAL M DE ARAUJO
-Frequência: Quinzenal
-Valor contrato: 2500
-Valor a receber: 3375
-Vencimento: 12/03/26
-Dias vencidos: -10
-Data de registro: 25/02/26
-Cliente de: Beiço
-Juros: 35%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 875
-Pagamento esperado: 875
-
-Nome: WANDERSON DA SILVA AMORIM
-Frequência: Quinzenal
-Valor contrato: 1100
-Valor a receber: 1496
-Vencimento: 27/02/26
-Dias vencidos: 3
-Data de registro: 12/02/26
-Cliente de: Beiço
-Juros: 35.99%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 396
-Pagamento esperado: 396
+Parcelas: 18
+Parcelas pagas: 9
+Total pago: 270
+Em aberto: 270
+Valor parcela: 30
+Pagamento esperado: 60
 
 Nome: SILVANA COSTA D ESOUZA
 Frequência: Mensal
 Valor contrato: 800
 Valor a receber: 1300
 Vencimento: 01/03/26
-Dias vencidos: 1
+Dias vencidos: 2
 Data de registro: 19/08/25
 Cliente de: Beiço
 Juros: 62.5%
@@ -2203,71 +2033,54 @@ Total pago: 3000
 Valor juros: 500
 Pagamento esperado: 500
 
-Nome: MARIA FRANCILEIDE LIMA DE SOUZA
-Frequência: Mensal
-Valor contrato: 1200
-Valor a receber: 6500
-Vencimento: 22/03/26
-Dias vencidos: -20
-Data de registro: 31/07/25
+Nome: AMANDA NOGUEIRA BARBOSA
+Frequência: Semanal
+Valor contrato: 1000
+Valor a receber: 1400
+Vencimento: 06/03/26
+Dias vencidos: -3
+Data de registro: 23/09/25
 Cliente de: Beiço
-Parcelas: 15
-Parcelas pagas: 2
-Total pago: 1000
-Em aberto: 6500
-Valor parcela: 500
-Pagamento esperado: 350
+Juros: 25%
+Vezes pago: 22
+Total pago: 5500
+Valor juros: 250
+Pagamento esperado: 250
 
-Nome: JEFFERSON DUTRA PESSOA
+Nome: ELVIS THOMAS SILVA
 Frequência: Semanal
 Valor contrato: 700
 Valor a receber: 885
-Vencimento: 05/03/26
-Dias vencidos: -3
-Data de registro: 22/01/26
+Vencimento: 04/03/26
+Dias vencidos: -1
+Data de registro: 11/02/26
 Cliente de: Beiço
 Juros: 26.4%
-Vezes pago: 6
-Total pago: 1110
+Vezes pago: 2
+Total pago: 370
 Valor juros: 185
 Pagamento esperado: 185
 
-Nome: ELISSON PANHUN NOBRE
-Frequência: Diária
-Valor contrato: 350
-Valor a receber: 300
-Vencimento: 28/02/26
-Dias vencidos: 1
-Data de registro: 13/02/26
+Nome: GILBERTO MACHADO DA COSTA
+Frequência: Semanal
+Valor contrato: 1000
+Valor a receber: 1250
+Vencimento: 08/03/26
+Dias vencidos: -5
+Data de registro: 09/10/25
 Cliente de: Beiço
-Parcelas: 18
-Parcelas pagas: 8
-Total pago: 240
-Em aberto: 300
-Valor parcela: 30
-Pagamento esperado: 60
-
-Nome: LUIS FELIPE GUIMARÃES NASCIMENTO
-Frequência: Diária
-Valor contrato: 350
-Valor a receber: 360
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 17/02/26
-Cliente de: Beiço
-Parcelas: 18
-Parcelas pagas: 8
-Total pago: 288
-Em aberto: 360
-Valor parcela: 36
-Pagamento esperado: 36
+Juros: 25%
+Vezes pago: 20
+Total pago: 5000
+Valor juros: 250
+Pagamento esperado: 250
 
 Nome: JEFFERSON PEREIRA LIMA_
 Frequência: Semanal
 Valor contrato: 2000
 Valor a receber: 1600
 Vencimento: 07/03/26
-Dias vencidos: -5
+Dias vencidos: -4
 Data de registro: 01/08/25
 Cliente de: Beiço
 Parcelas: 20
@@ -2277,68 +2090,82 @@ Em aberto: 1600
 Valor parcela: 100
 Pagamento esperado: 100
 
-Nome: ANA ANGELICA BEZERRA FELIX
-Frequência: Diária
+Nome: MARIA FRANCILEIDE LIMA DE SOUZA
+Frequência: Mensal
+Valor contrato: 1200
+Valor a receber: 6500
+Vencimento: 22/03/26
+Dias vencidos: -19
+Data de registro: 31/07/25
+Cliente de: Beiço
+Parcelas: 15
+Parcelas pagas: 2
+Total pago: 1000
+Em aberto: 6500
+Valor parcela: 500
+Pagamento esperado: 350
+
+Nome: ERLENILZA DO BONFIM DE SOUZA CIRILO
+Frequência: Semanal
 Valor contrato: 700
-Valor a receber: 828
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 16/02/26
+Valor a receber: 885
+Vencimento: 05/03/26
+Dias vencidos: -2
+Data de registro: 12/02/26
 Cliente de: Beiço
-Parcelas: 19
-Parcelas pagas: 7
-Total pago: 483
-Em aberto: 828
-Valor parcela: 69
-Pagamento esperado: 69
-
-Nome: WANDALLA DAPHANY DA SILVA ALCANTARA
-Frequência: Quinzenal
-Valor contrato: 300
-Valor a receber: 411
-Vencimento: 08/03/26
-Dias vencidos: -6
-Data de registro: 22/01/26
-Cliente de: Beiço
-Juros: 37.1%
+Juros: 26.4%
 Vezes pago: 2
-Total pago: 222
-Valor juros: 111
-Pagamento esperado: 111
+Total pago: 370
+Valor juros: 185
+Pagamento esperado: 185
 
-Nome: RAMILTON BARROS DA SILVA
-Frequência: Quinzenal
-Valor contrato: 1100
-Valor a receber: 1496
-Vencimento: 07/03/26
-Dias vencidos: -5
-Data de registro: 21/01/26
+Nome: PAULINO PEREIRA ANTHONY HUMPHREY
+Frequência: Semanal
+Valor contrato: 500
+Valor a receber: 680
+Vencimento: 05/03/26
+Dias vencidos: -2
+Data de registro: 12/02/26
 Cliente de: Beiço
 Juros: 35.99%
 Vezes pago: 2
-Total pago: 792
+Total pago: 360
+Valor juros: 180
+Pagamento esperado: 180
+
+Nome: WANDERSON DA SILVA AMORIM
+Frequência: Quinzenal
+Valor contrato: 1100
+Valor a receber: 1496
+Vencimento: 27/02/26
+Dias vencidos: 4
+Data de registro: 12/02/26
+Cliente de: Beiço
+Juros: 35.99%
+Vezes pago: 0
+Total pago: 0
 Valor juros: 396
 Pagamento esperado: 396
 
-Nome: JANINNY APARECIDA SANTOS FRANÇA BRAGA_
+Nome: BRENDA DE SOUZA SALAZAR
 Frequência: Quinzenal
-Valor contrato: 600
-Valor a receber: 820
-Vencimento: 06/03/26
-Dias vencidos: -4
-Data de registro: 19/02/26
+Valor contrato: 700
+Valor a receber: 956
+Vencimento: 16/03/26
+Dias vencidos: -13
+Data de registro: 14/02/26
 Cliente de: Beiço
-Juros: 36.6%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 220
-Pagamento esperado: 220
+Juros: 36.5%
+Vezes pago: 1
+Total pago: 256
+Valor juros: 256
+Pagamento esperado: 256
 
 Nome: SANDRO MOREIRA TRINDADE
 Frequência: Diária
 Valor contrato: 1000
 Valor a receber: 1380
-Vencimento: 02/03/26
+Vencimento: 03/03/26
 Dias vencidos: 0
 Data de registro: 16/02/26
 Cliente de: Beiço
@@ -2347,14 +2174,186 @@ Parcelas pagas: 7
 Total pago: 420
 Em aberto: 1380
 Valor parcela: 60
-Pagamento esperado: 60
+Pagamento esperado: 70
+
+Nome: JORDANIA DAMASCENO
+Frequência: Mensal
+Valor contrato: 1500
+Valor a receber: 2100
+Vencimento: 06/03/26
+Dias vencidos: -3
+Data de registro: 06/11/25
+Cliente de: Beiço
+Juros: 40%
+Vezes pago: 3
+Total pago: 1800
+Valor juros: 600
+Pagamento esperado: 600
+
+Nome: RICARDO DO SANTOS NUNES
+Frequência: Diária
+Valor contrato: 500
+Valor a receber: 795
+Vencimento: 28/02/26
+Dias vencidos: 2
+Data de registro: 27/02/26
+Cliente de: Beiço
+Parcelas: 15
+Parcelas pagas: 0
+Total pago: 0
+Em aberto: 795
+Valor parcela: 53
+Pagamento esperado: 159
+
+Nome: JEFFERSON DUTRA PESSOA
+Frequência: Semanal
+Valor contrato: 700
+Valor a receber: 885
+Vencimento: 05/03/26
+Dias vencidos: -2
+Data de registro: 22/01/26
+Cliente de: Beiço
+Juros: 26.4%
+Vezes pago: 6
+Total pago: 1110
+Valor juros: 185
+Pagamento esperado: 185
+
+Nome: JULIANA KETINNEY MACEDO MALAQUIAS
+Frequência: Semanal
+Valor contrato: 1000
+Valor a receber: 1258
+Vencimento: 06/03/26
+Dias vencidos: -3
+Data de registro: 27/02/26
+Cliente de: Beiço
+Juros: 25.8%
+Vezes pago: 0
+Total pago: 0
+Valor juros: 258
+Pagamento esperado: 258
+
+Nome: EDGAR LIMA DA SILVA
+Frequência: Diária
+Valor contrato: 500
+Valor a receber: 742
+Vencimento: 27/02/26
+Dias vencidos: 3
+Data de registro: 25/02/26
+Cliente de: Beiço
+Parcelas: 15
+Parcelas pagas: 1
+Total pago: 53
+Em aberto: 742
+Valor parcela: 53
+Pagamento esperado: 212
+
+Nome: ESTEPHANY ALENCAR GONDIM
+Frequência: Diária
+Valor contrato: 1000
+Valor a receber: 582
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 17/02/26
+Cliente de: Beiço
+Parcelas: 16
+Parcelas pagas: 10
+Total pago: 970
+Em aberto: 582
+Valor parcela: 97
+Pagamento esperado: 97
+
+Nome: FERNANDO HENRIQUE PIRES DA SILVA
+Frequência: Diária
+Valor contrato: 350
+Valor a receber: 387
+Vencimento: 04/03/26
+Dias vencidos: -1
+Data de registro: 28/01/26
+Cliente de: Beiço
+Parcelas: 15
+Parcelas pagas: 6
+Total pago: 258
+Em aberto: 387
+Valor parcela: 43
+Pagamento esperado: 43
+
+Nome: RAMILTON BARROS DA SILVA
+Frequência: Quinzenal
+Valor contrato: 1100
+Valor a receber: 1496
+Vencimento: 07/03/26
+Dias vencidos: -4
+Data de registro: 21/01/26
+Cliente de: Beiço
+Juros: 35.99%
+Vezes pago: 2
+Total pago: 792
+Valor juros: 396
+Pagamento esperado: 396
+
+Nome: MATHEUS LARA BORBA
+Frequência: Semanal
+Valor contrato: 1000
+Valor a receber: 1375
+Vencimento: 07/03/26
+Dias vencidos: -4
+Data de registro: 28/02/26
+Cliente de: Beiço
+Juros: 37.5%
+Vezes pago: 0
+Total pago: 0
+Valor juros: 375
+Pagamento esperado: 375
+
+Nome: JOSE AMERICO LIMA ARAUJO
+Frequência: Mensal
+Valor contrato: 1500
+Valor a receber: 2175
+Vencimento: 02/03/26
+Dias vencidos: 1
+Data de registro: 02/02/26
+Cliente de: Beiço
+Juros: 45%
+Vezes pago: 0
+Total pago: 0
+Valor juros: 675
+Pagamento esperado: 675
+
+Nome: FABIO JUNHO SOUSA SENA
+Frequência: Mensal
+Valor contrato: 800
+Valor a receber: 1120
+Vencimento: 07/03/26
+Dias vencidos: -4
+Data de registro: 20/10/25
+Cliente de: Beiço
+Juros: 40%
+Vezes pago: 4
+Total pago: 1280
+Valor juros: 320
+Pagamento esperado: 320
+
+Nome: LIDIAME DE SEMA MELO
+Frequência: Mensal
+Valor contrato: 1500
+Valor a receber: 2250
+Vencimento: 28/03/26
+Dias vencidos: -25
+Data de registro: 16/10/25
+Cliente de: Beiço
+Juros: 50%
+Vezes pago: 5
+Total pago: 3750
+Valor juros: 750
+Pagamento esperado: 750
 
 Nome: CLEITON VICENTE FERREIRA
 Frequência: Quinzenal
 Valor contrato: 1000
 Valor a receber: 1350
 Vencimento: 05/03/26
-Dias vencidos: -3
+Dias vencidos: -2
 Data de registro: 18/02/26
 Cliente de: Beiço
 Juros: 35%
@@ -2366,228 +2365,44 @@ Pagamento esperado: 350
 Nome: ANDREZA SOUZA BARBOSA
 Frequência: Diária
 Valor contrato: 1000
-Valor a receber: 1600
-Vencimento: 28/02/26
-Dias vencidos: 1
+Valor a receber: 1520
+Vencimento: 03/03/26
+Dias vencidos: 0
 Data de registro: 26/01/26
 Cliente de: Beiço
 Parcelas: 25
-Parcelas pagas: 5
-Total pago: 400
-Em aberto: 1600
+Parcelas pagas: 6
+Total pago: 480
+Em aberto: 1520
 Valor parcela: 80
-Pagamento esperado: 160
+Pagamento esperado: 80
 
-Nome: ALEXANDRE PEREIRA DA SILVA
-Frequência: Mensal
-Valor contrato: 1000
-Valor a receber: 4400
-Vencimento: 06/03/26
-Dias vencidos: -4
-Data de registro: 08/09/25
-Cliente de: Beiço
-Juros: 50%
-Vezes pago: 2
-Total pago: 1200
-Valor juros: 600
-Pagamento esperado: 600
-
-Nome: VALDEIR SOUSA BEZERRA_
-Frequência: Semanal
-Valor contrato: 700
-Valor a receber: 880
-Vencimento: 03/03/26
-Dias vencidos: -1
-Data de registro: 19/01/26
-Cliente de: Beiço
-Juros: 25.71429%
-Vezes pago: 5
-Total pago: 900
-Valor juros: 180
-Pagamento esperado: 180
-
-Nome: AMANDA NOGUEIRA BARBOSA
-Frequência: Semanal
-Valor contrato: 1000
-Valor a receber: 1400
-Vencimento: 27/02/26
-Dias vencidos: 3
-Data de registro: 23/09/25
-Cliente de: Beiço
-Juros: 25%
-Vezes pago: 21
-Total pago: 5250
-Valor juros: 250
-Pagamento esperado: 250
-
-Nome: JOSE AMERICO LIMA ARAUJO
-Frequência: Mensal
-Valor contrato: 1500
-Valor a receber: 2175
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 02/02/26
-Cliente de: Beiço
-Juros: 45%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 675
-Pagamento esperado: 675
-
-Nome: GILBERTO MACHADO DA COSTA
-Frequência: Semanal
-Valor contrato: 1000
-Valor a receber: 1250
-Vencimento: 01/03/26
-Dias vencidos: 1
-Data de registro: 09/10/25
-Cliente de: Beiço
-Juros: 25%
-Vezes pago: 19
-Total pago: 4750
-Valor juros: 250
-Pagamento esperado: 250
-
-Nome: FERNANDO HENRIQUE PIRES DA SILVA
+Nome: RUAN KARLOS CONCEIÇÃO DOS SANTOS
 Frequência: Diária
-Valor contrato: 350
+Valor contrato: 500
 Valor a receber: 559
-Vencimento: 27/02/26
-Dias vencidos: 2
-Data de registro: 28/01/26
-Cliente de: Beiço
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 27/02/26
+Cliente de: Cifra
 Parcelas: 15
 Parcelas pagas: 2
 Total pago: 86
 Em aberto: 559
 Valor parcela: 43
-Pagamento esperado: 131
-
-Nome: WILSON GRUDTNER NETO
-Frequência: Quinzenal
-Valor contrato: 500
-Valor a receber: 750
-Vencimento: 03/03/26
-Dias vencidos: -1
-Data de registro: 16/01/26
-Cliente de: Beiço
-Juros: 50%
-Vezes pago: 1
-Total pago: 250
-Valor juros: 250
-Pagamento esperado: 250
-
-Nome: ESTEPHANY ALENCAR GONDIM
-Frequência: Diária
-Valor contrato: 1000
-Valor a receber: 679
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 17/02/26
-Cliente de: Beiço
-Parcelas: 16
-Parcelas pagas: 9
-Total pago: 873
-Em aberto: 679
-Valor parcela: 97
-Pagamento esperado: 97
-
-Nome: EFRAIN JUNIOR RODRÍGUEZ YAGUARAN
-Frequência: Semanal
-Valor contrato: 500
-Valor a receber: 610
-Vencimento: 06/03/26
-Dias vencidos: -4
-Data de registro: 20/02/26
-Cliente de: Cifra
-Juros: 22%
-Vezes pago: 1
-Total pago: 110
-Valor juros: 110
-Pagamento esperado: 110
+Pagamento esperado: 43
 
 Nome: RAILSON CARDOSO GARCIA
 Frequência: Semanal
 Valor contrato: 1000
 Valor a receber: 1210
 Vencimento: 06/03/26
-Dias vencidos: -4
-Data de registro: 27/02/26
-Cliente de: Cifra
-Juros: 21%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 210
-Pagamento esperado: 210
-
-Nome: RUAN KARLOS CONCEIÇÃO DOS SANTOS
-Frequência: Diária
-Valor contrato: 500
-Valor a receber: 602
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 27/02/26
-Cliente de: Cifra
-Parcelas: 15
-Parcelas pagas: 1
-Total pago: 43
-Em aberto: 602
-Valor parcela: 43
-Pagamento esperado: 43
-
-Nome: VALERIA CARVALHO FALCAO
-Frequência: Semanal
-Valor contrato: 1000
-Valor a receber: 1210
-Vencimento: 05/03/26
 Dias vencidos: -3
-Data de registro: 19/02/26
+Data de registro: 27/02/26
 Cliente de: Cifra
 Juros: 21%
-Vezes pago: 1
-Total pago: 210
-Valor juros: 210
-Pagamento esperado: 210
-
-Nome: GUSTSON VAUENSE
-Frequência: Semanal
-Valor contrato: 1000
-Valor a receber: 1210
-Vencimento: 09/03/26
-Dias vencidos: -7
-Data de registro: 23/02/26
-Cliente de: Cifra
-Juros: 21%
-Vezes pago: 1
-Total pago: 210
-Valor juros: 210
-Pagamento esperado: 210
-
-Nome: MARCOS RAFAEL VELOZO VIANA
-Frequência: Semanal
-Valor contrato: 500
-Valor a receber: 610
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 23/02/26
-Cliente de: Cifra
-Juros: 22%
 Vezes pago: 0
 Total pago: 0
-Valor juros: 110
-Pagamento esperado: 110
-
-Nome: PAULA PATRÍCIA DOS SANTOS VASCONCELOS
-Frequência: Semanal
-Valor contrato: 1000
-Valor a receber: 1210
-Vencimento: 06/03/26
-Dias vencidos: -4
-Data de registro: 20/02/26
-Cliente de: Cifra
-Juros: 21%
-Vezes pago: 1
-Total pago: 210
 Valor juros: 210
 Pagamento esperado: 210
 
@@ -2596,7 +2411,7 @@ Frequência: Semanal
 Valor contrato: 500
 Valor a receber: 610
 Vencimento: 05/03/26
-Dias vencidos: -3
+Dias vencidos: -2
 Data de registro: 26/02/26
 Cliente de: Cifra
 Juros: 22%
@@ -2610,7 +2425,7 @@ Frequência: Semanal
 Valor contrato: 1000
 Valor a receber: 1210
 Vencimento: 06/03/26
-Dias vencidos: -4
+Dias vencidos: -3
 Data de registro: 27/02/26
 Cliente de: Cifra
 Juros: 21%
@@ -2619,12 +2434,40 @@ Total pago: 0
 Valor juros: 210
 Pagamento esperado: 210
 
+Nome: MANOEL FONSECA DOS SANTOS
+Frequência: Semanal
+Valor contrato: 500
+Valor a receber: 610
+Vencimento: 09/03/26
+Dias vencidos: -6
+Data de registro: 02/03/26
+Cliente de: Cifra
+Juros: 22%
+Vezes pago: 0
+Total pago: 0
+Valor juros: 110
+Pagamento esperado: 110
+
+Nome: VALERIA CARVALHO FALCAO
+Frequência: Semanal
+Valor contrato: 1000
+Valor a receber: 1210
+Vencimento: 05/03/26
+Dias vencidos: -2
+Data de registro: 19/02/26
+Cliente de: Cifra
+Juros: 21%
+Vezes pago: 1
+Total pago: 210
+Valor juros: 210
+Pagamento esperado: 210
+
 Nome: MIGUEL ALEF PEIXOTO DA SILVA
 Frequência: Semanal
 Valor contrato: 500
 Valor a receber: 610
 Vencimento: 06/03/26
-Dias vencidos: -4
+Dias vencidos: -3
 Data de registro: 20/02/26
 Cliente de: Cifra
 Juros: 22%
@@ -2633,12 +2476,97 @@ Total pago: 110
 Valor juros: 110
 Pagamento esperado: 110
 
+Nome: GUSTSON VAUENSE
+Frequência: Semanal
+Valor contrato: 1000
+Valor a receber: 1210
+Vencimento: 09/03/26
+Dias vencidos: -6
+Data de registro: 23/02/26
+Cliente de: Cifra
+Juros: 21%
+Vezes pago: 1
+Total pago: 210
+Valor juros: 210
+Pagamento esperado: 210
+
+Nome: MARCOS RAFAEL VELOZO VIANA
+Frequência: Semanal
+Valor contrato: 500
+Valor a receber: 610
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 23/02/26
+Cliente de: Cifra
+Juros: 22%
+Vezes pago: 0
+Total pago: 0
+Valor juros: 110
+Pagamento esperado: 110
+
+Nome: EFRAIN JUNIOR RODRÍGUEZ YAGUARAN
+Frequência: Semanal
+Valor contrato: 500
+Valor a receber: 610
+Vencimento: 06/03/26
+Dias vencidos: -3
+Data de registro: 20/02/26
+Cliente de: Cifra
+Juros: 22%
+Vezes pago: 1
+Total pago: 110
+Valor juros: 110
+Pagamento esperado: 110
+
+Nome: PAULA PATRÍCIA DOS SANTOS VASCONCELOS
+Frequência: Semanal
+Valor contrato: 1000
+Valor a receber: 1210
+Vencimento: 06/03/26
+Dias vencidos: -3
+Data de registro: 20/02/26
+Cliente de: Cifra
+Juros: 21%
+Vezes pago: 1
+Total pago: 210
+Valor juros: 210
+Pagamento esperado: 210
+
+Nome: LUIS GUILHERME MOTA CAVALCANTE
+Frequência: Diária
+Valor contrato: 500
+Valor a receber: 532
+Vencimento: 05/08/25
+Dias vencidos: 180
+Data de registro: 28/07/25
+Cliente de: Dentista
+Parcelas: 51
+Parcelas pagas: 6
+Total pago: 228
+Em aberto: 532
+Valor parcela: 38
+Pagamento esperado: 6878
+
+Nome: IVANEIDE DA SILVA OLIVEIRA
+Frequência: Mensal
+Valor contrato: 1000
+Valor a receber: 1600
+Vencimento: 05/03/26
+Dias vencidos: -2
+Data de registro: 18/08/25
+Cliente de: Dentista
+Juros: 60%
+Vezes pago: 6
+Total pago: 3600
+Valor juros: 600
+Pagamento esperado: 600
+
 Nome: ALEXANDRE GARCIA MOURÃO
 Frequência: Semanal
 Valor contrato: 1000
 Valor a receber: 2000
 Vencimento: 21/08/25
-Dias vencidos: 193
+Dias vencidos: 194
 Data de registro: 29/07/25
 Cliente de: Dentista
 Parcelas: 11
@@ -2648,70 +2576,12 @@ Em aberto: 2000
 Valor parcela: 500
 Pagamento esperado: 14000
 
-Nome: LUIS GUILHERME MOTA CAVALCANTE
-Frequência: Diária
-Valor contrato: 500
-Valor a receber: 532
-Vencimento: 05/08/25
-Dias vencidos: 179
-Data de registro: 28/07/25
-Cliente de: Dentista
-Parcelas: 51
-Parcelas pagas: 6
-Total pago: 228
-Em aberto: 532
-Valor parcela: 38
-Pagamento esperado: 6840
-
-Nome: IVANEIDE DA SILVA OLIVEIRA
-Frequência: Mensal
-Valor contrato: 1000
-Valor a receber: 1600
-Vencimento: 05/03/26
-Dias vencidos: -3
-Data de registro: 18/08/25
-Cliente de: Dentista
-Juros: 60%
-Vezes pago: 6
-Total pago: 3600
-Valor juros: 600
-Pagamento esperado: 600
-
-Nome: GIOVANE RODRIGUES FALCONE_
-Frequência: Mensal
-Valor contrato: 1500
-Valor a receber: 6850
-Vencimento: 28/09/25
-Dias vencidos: 155
-Data de registro: 18/08/25
-Cliente de: Dentista
-Juros: 100%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 700
-Pagamento esperado: 4200
-
-Nome: THAYLAN PEREIRA DE MELO
-Frequência: Diária
-Valor contrato: 1000
-Valor a receber: 1680
-Vencimento: 30/08/25
-Dias vencidos: 157
-Data de registro: 22/08/25
-Cliente de: Dentista
-Parcelas: 57
-Parcelas pagas: 5
-Total pago: 400
-Em aberto: 1680
-Valor parcela: 80
-Pagamento esperado: 12640
-
 Nome: FLAIDIMIR RIBEIRO BENTO
 Frequência: Semanal
 Valor contrato: 1000
 Valor a receber: 5900
 Vencimento: 10/10/25
-Dias vencidos: 143
+Dias vencidos: 144
 Data de registro: 15/08/25
 Cliente de: Dentista
 Juros: 25%
@@ -2725,7 +2595,7 @@ Frequência: Semanal
 Valor contrato: 500
 Valor a receber: 5350
 Vencimento: 20/07/25
-Dias vencidos: 225
+Dias vencidos: 226
 Data de registro: 12/07/25
 Cliente de: Dentista
 Juros: 40%
@@ -2734,54 +2604,41 @@ Total pago: 0
 Valor juros: 200
 Pagamento esperado: 6600
 
-Nome: EDIMARA BRAGA DE MATOS
-Frequência: Mensal
-Valor contrato: 5000
-Valor a receber: 6000
-Vencimento: 08/03/26
-Dias vencidos: -6
-Data de registro: 15/02/26
-Cliente de: Father
-Juros: 19.99%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 1000
-Pagamento esperado: 1000
+Nome: THAYLAN PEREIRA DE MELO
+Frequência: Diária
+Valor contrato: 1000
+Valor a receber: 1680
+Vencimento: 30/08/25
+Dias vencidos: 158
+Data de registro: 22/08/25
+Cliente de: Dentista
+Parcelas: 57
+Parcelas pagas: 5
+Total pago: 400
+Em aberto: 1680
+Valor parcela: 80
+Pagamento esperado: 12720
 
-Nome: MARIA CONSUELO LAVARES MILENAS
+Nome: GIOVANE RODRIGUES FALCONE_
 Frequência: Mensal
 Valor contrato: 1500
-Valor a receber: 1950
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 03/02/26
-Cliente de: Father
-Juros: 30%
+Valor a receber: 6850
+Vencimento: 28/09/25
+Dias vencidos: 156
+Data de registro: 18/08/25
+Cliente de: Dentista
+Juros: 100%
 Vezes pago: 0
 Total pago: 0
-Valor juros: 450
-Pagamento esperado: 450
-
-Nome: ANA CRISTINA DUARTE E SILVA
-Frequência: Mensal
-Valor contrato: 5000
-Valor a receber: 6000
-Vencimento: 08/03/26
-Dias vencidos: -6
-Data de registro: 15/02/26
-Cliente de: Father
-Juros: 19.99%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 1000
-Pagamento esperado: 1000
+Valor juros: 700
+Pagamento esperado: 4200
 
 Nome: CAUÊ RODRIGUES DOS SANTOS
 Frequência: Mensal
 Valor contrato: 1200
 Valor a receber: 6330
 Vencimento: 01/10/25
-Dias vencidos: 151
+Dias vencidos: 152
 Data de registro: 01/08/25
 Cliente de: Father
 Juros: 45%
@@ -2795,7 +2652,7 @@ Frequência: Mensal
 Valor contrato: 1200
 Valor a receber: 870
 Vencimento: 05/03/26
-Dias vencidos: -3
+Dias vencidos: -2
 Data de registro: 01/08/25
 Cliente de: Father
 Parcelas: 10
@@ -2810,7 +2667,7 @@ Frequência: Mensal
 Valor contrato: 1500
 Valor a receber: 2000
 Vencimento: 01/04/26
-Dias vencidos: -31
+Dias vencidos: -30
 Data de registro: 04/08/25
 Cliente de: Father
 Juros: 33.35%
@@ -2824,7 +2681,7 @@ Frequência: Mensal
 Valor contrato: 2000
 Valor a receber: 2800
 Vencimento: 03/03/26
-Dias vencidos: -2
+Dias vencidos: -1
 Data de registro: 04/08/25
 Cliente de: Father
 Juros: 30%
@@ -2833,55 +2690,126 @@ Total pago: 3600
 Valor juros: 600
 Pagamento esperado: 600
 
+Nome: MARIA CONSUELO LAVARES MILENAS
+Frequência: Mensal
+Valor contrato: 1500
+Valor a receber: 1950
+Vencimento: 02/04/26
+Dias vencidos: -30
+Data de registro: 03/02/26
+Cliente de: Father
+Juros: 30%
+Vezes pago: 1
+Total pago: 450
+Valor juros: 450
+Pagamento esperado: 450
+
+Nome: ANA CRISTINA DUARTE E SILVA
+Frequência: Mensal
+Valor contrato: 5000
+Valor a receber: 6000
+Vencimento: 08/03/26
+Dias vencidos: -5
+Data de registro: 15/02/26
+Cliente de: Father
+Juros: 19.99%
+Vezes pago: 0
+Total pago: 0
+Valor juros: 1000
+Pagamento esperado: 1000
+
+Nome: EDIMARA BRAGA DE MATOS
+Frequência: Mensal
+Valor contrato: 5000
+Valor a receber: 6000
+Vencimento: 08/03/26
+Dias vencidos: -5
+Data de registro: 15/02/26
+Cliente de: Father
+Juros: 19.99%
+Vezes pago: 0
+Total pago: 0
+Valor juros: 1000
+Pagamento esperado: 1000
+
+Nome: CECILIA CAROLINE SANTOS MAGALHAES
+Frequência: Diária
+Valor contrato: 1000
+Valor a receber: 485
+Vencimento: 04/03/26
+Dias vencidos: -1
+Data de registro: 30/01/26
+Cliente de: Jin Woo
+Parcelas: 16
+Parcelas pagas: 11
+Total pago: 1067
+Em aberto: 485
+Valor parcela: 97
+Pagamento esperado: 97
+
+Nome: KAIQUE DE SOUSA FERREIRA_
+Frequência: Quinzenal
+Valor contrato: 1000
+Valor a receber: 1360
+Vencimento: 09/03/26
+Dias vencidos: -6
+Data de registro: 07/02/26
+Cliente de: Jin Woo
+Juros: 35.99%
+Vezes pago: 1
+Total pago: 360
+Valor juros: 360
+Pagamento esperado: 360
+
+Nome: CLECINILSON LOURENCO DA CRUZ_
+Frequência: Semanal
+Valor contrato: 500
+Valor a receber: 685
+Vencimento: 28/02/26
+Dias vencidos: 3
+Data de registro: 01/01/26
+Cliente de: Jin Woo
+Juros: 26.99%
+Vezes pago: 0
+Total pago: 0
+Valor juros: 135
+Pagamento esperado: 135
+
 Nome: JEFTE CORDEIRO DE SOUZA
 Frequência: Diária
 Valor contrato: 350
-Valor a receber: 540
-Vencimento: 02/03/26
+Valor a receber: 504
+Vencimento: 03/03/26
 Dias vencidos: 0
 Data de registro: 28/02/26
 Cliente de: Jin Woo
 Parcelas: 15
-Parcelas pagas: 0
-Total pago: 0
-Em aberto: 540
+Parcelas pagas: 1
+Total pago: 36
+Em aberto: 504
 Valor parcela: 36
 Pagamento esperado: 36
 
-Nome: RAILSON DA SILVA VERAS
-Frequência: Personalizado
-Valor contrato: 1000
-Valor a receber: 1250
-Vencimento: 15/03/26
-Dias vencidos: -13
-Data de registro: 18/11/25
+Nome: VITOR GABRIEL DA SILVA LIMA
+Frequência: Quinzenal
+Valor contrato: 2000
+Valor a receber: 2710
+Vencimento: 04/03/26
+Dias vencidos: -1
+Data de registro: 02/02/26
 Cliente de: Jin Woo
-Juros: 25%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 1200
-Pagamento esperado: 1200
-
-Nome: POLIANA DA COSTA MARQUES
-Frequência: Semanal
-Valor contrato: 950
-Valor a receber: 1250
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 18/11/25
-Cliente de: Jin Woo
-Juros: 26.31579%
-Vezes pago: 13
-Total pago: 3250
-Valor juros: 250
-Pagamento esperado: 110
+Juros: 35.5%
+Vezes pago: 1
+Total pago: 710
+Valor juros: 710
+Pagamento esperado: 710
 
 Nome: ISABELA CRISTINA DE ALMEIDA LOPES
 Frequência: Quinzenal
 Valor contrato: 1100
 Valor a receber: 1496
 Vencimento: 06/03/26
-Dias vencidos: -4
+Dias vencidos: -3
 Data de registro: 04/02/26
 Cliente de: Jin Woo
 Juros: 35.99%
@@ -2890,70 +2818,27 @@ Total pago: 396
 Valor juros: 396
 Pagamento esperado: 396
 
-Nome: SAMUEL SILVA BEZERRA
-Frequência: Semanal
-Valor contrato: 950
-Valor a receber: 1245
-Vencimento: 28/02/26
-Dias vencidos: 2
-Data de registro: 22/01/26
-Cliente de: Jin Woo
-Juros: 25.8%
-Vezes pago: 4
-Total pago: 980
-Valor juros: 245
-Pagamento esperado: 245
-
-Nome: SILVAN DOS SANTOS LOPES_
+Nome: ELIVAR DE LIMA ALMEIDA
 Frequência: Diária
-Valor contrato: 1000
-Valor a receber: 776
-Vencimento: 02/03/26
+Valor contrato: 900
+Valor a receber: 774
+Vencimento: 03/03/26
 Dias vencidos: 0
-Data de registro: 13/01/26
+Data de registro: 04/02/26
 Cliente de: Jin Woo
 Parcelas: 20
-Parcelas pagas: 12
-Total pago: 1164
-Em aberto: 776
-Valor parcela: 97
-Pagamento esperado: 97
-
-Nome: MILLA CRISTIAN MACENA DE OLIVEIRA_
-Frequência: Semanal
-Valor contrato: 1000
-Valor a receber: 1210
-Vencimento: 05/03/26
-Dias vencidos: -3
-Data de registro: 19/02/26
-Cliente de: Jin Woo
-Juros: 21%
-Vezes pago: 1
-Total pago: 210
-Valor juros: 210
-Pagamento esperado: 210
-
-Nome: HIRLENIO GIORCLEY LIMA PONTES_
-Frequência: Diária
-Valor contrato: 500
-Valor a receber: 742
-Vencimento: 28/02/26
-Dias vencidos: 1
-Data de registro: 20/02/26
-Cliente de: Jin Woo
-Parcelas: 16
-Parcelas pagas: 2
-Total pago: 106
-Em aberto: 742
-Valor parcela: 53
-Pagamento esperado: 106
+Parcelas pagas: 11
+Total pago: 946
+Em aberto: 774
+Valor parcela: 86
+Pagamento esperado: 86
 
 Nome: JOSE CARLOS SILVA SOUSA
 Frequência: Diária
 Valor contrato: 1000
 Valor a receber: 679
 Vencimento: 03/03/26
-Dias vencidos: -1
+Dias vencidos: 0
 Data de registro: 18/02/26
 Cliente de: Jin Woo
 Parcelas: 16
@@ -2963,69 +2848,12 @@ Em aberto: 679
 Valor parcela: 97
 Pagamento esperado: 97
 
-Nome: ALCINEY SILVA DOS SANTOS JUNIOR_
-Frequência: Semanal
-Valor contrato: 500
-Valor a receber: 635
-Vencimento: 06/03/26
-Dias vencidos: -4
-Data de registro: 20/02/26
-Cliente de: Jin Woo
-Juros: 26.99%
-Vezes pago: 1
-Total pago: 135
-Valor juros: 135
-Pagamento esperado: 135
-
-Nome: JONATHAN PERES ARAÚJO
-Frequência: Semanal
-Valor contrato: 1000
-Valor a receber: 1258
-Vencimento: 03/03/26
-Dias vencidos: -1
-Data de registro: 10/02/26
-Cliente de: Jin Woo
-Juros: 25.8%
-Vezes pago: 2
-Total pago: 516
-Valor juros: 258
-Pagamento esperado: 258
-
-Nome: RJ
-Frequência: Diária
-Valor contrato: 1
-Valor a receber: 750
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 20/02/26
-Cliente de: Jin Woo
-Parcelas: 10
-Parcelas pagas: 5
-Total pago: 750
-Em aberto: 750
-Valor parcela: 150
-Pagamento esperado: 150
-
-Nome: JAMILLY OLIVEIRA LOPES
-Frequência: Quinzenal
-Valor contrato: 1100
-Valor a receber: 1618
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 14/01/26
-Cliente de: Jin Woo
-Juros: 33.43%
-Vezes pago: 2
-Total pago: 736
-Valor juros: 368
-Pagamento esperado: 368
-
 Nome: ISABELA CRISTINA DE ALMEIDA LOPES
 Frequência: Semanal
 Valor contrato: 1000
 Valor a receber: 1258
 Vencimento: 05/03/26
-Dias vencidos: -3
+Dias vencidos: -2
 Data de registro: 19/02/26
 Cliente de: Jin Woo
 Juros: 25.8%
@@ -3034,115 +2862,154 @@ Total pago: 258
 Valor juros: 258
 Pagamento esperado: 258
 
-Nome: KAIQUE DE SOUSA FERREIRA_
-Frequência: Quinzenal
-Valor contrato: 1000
-Valor a receber: 1360
-Vencimento: 09/03/26
-Dias vencidos: -7
-Data de registro: 07/02/26
+Nome: CAETANO ALMEIDA DA SILVA_
+Frequência: Semanal
+Valor contrato: 700
+Valor a receber: 880
+Vencimento: 05/03/26
+Dias vencidos: -2
+Data de registro: 30/12/25
 Cliente de: Jin Woo
-Juros: 35.99%
-Vezes pago: 1
-Total pago: 360
-Valor juros: 360
-Pagamento esperado: 360
+Juros: 25.71429%
+Vezes pago: 8
+Total pago: 1440
+Valor juros: 180
+Pagamento esperado: 180
 
-Nome: FRANCINILSON LIMA DE SOUSA
+Nome: JONATHAN PERES ARAÚJO
 Frequência: Semanal
 Valor contrato: 1000
-Valor a receber: 1228
-Vencimento: 02/03/26
+Valor a receber: 1258
+Vencimento: 03/03/26
 Dias vencidos: 0
-Data de registro: 01/12/25
+Data de registro: 10/02/26
 Cliente de: Jin Woo
 Juros: 25.8%
-Vezes pago: 12
-Total pago: 3096
+Vezes pago: 2
+Total pago: 516
 Valor juros: 258
 Pagamento esperado: 258
 
-Nome: CECILIA CAROLINE SANTOS MAGALHAES
+Nome: ELISNALDO WAGNER CONCEIÇÃO DE ARAÚJO
+Frequência: Semanal
+Valor contrato: 1000
+Valor a receber: 1352
+Vencimento: 06/03/26
+Dias vencidos: -3
+Data de registro: 05/12/25
+Cliente de: Jin Woo
+Juros: 25.2%
+Vezes pago: 12
+Total pago: 3024
+Valor juros: 252
+Pagamento esperado: 252
+
+Nome: OSMAR DA CONCEIÇÃO MESQUITA
+Frequência: Diária
+Valor contrato: 500
+Valor a receber: 424
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 18/02/26
+Cliente de: Jin Woo
+Parcelas: 16
+Parcelas pagas: 8
+Total pago: 424
+Em aberto: 424
+Valor parcela: 53
+Pagamento esperado: 15
+
+Nome: WESLEN DE ASSUNÇÃO LIMA
+Frequência: Semanal
+Valor contrato: 492
+Valor a receber: 1090
+Vencimento: 05/03/26
+Dias vencidos: -2
+Data de registro: 04/12/25
+Cliente de: Jin Woo
+Juros: 26%
+Vezes pago: 10
+Total pago: 1280
+Valor juros: 128
+Pagamento esperado: 128
+
+Nome: ROMARIO DO CARMO DE LIMA
+Frequência: Semanal
+Valor contrato: 500
+Valor a receber: 682
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 06/01/26
+Cliente de: Jin Woo
+Juros: 26.4%
+Vezes pago: 7
+Total pago: 924
+Valor juros: 132
+Pagamento esperado: 132
+
+Nome: LAISA DA COSTA GARCIA
+Frequência: Semanal
+Valor contrato: 1500
+Valor a receber: 1832
+Vencimento: 04/03/26
+Dias vencidos: -1
+Data de registro: 14/12/25
+Cliente de: Jin Woo
+Juros: 22.1%
+Vezes pago: 5
+Total pago: 1660
+Valor juros: 332
+Pagamento esperado: 332
+
+Nome: SILVAN DOS SANTOS LOPES_
 Frequência: Diária
 Valor contrato: 1000
 Valor a receber: 679
-Vencimento: 02/03/26
+Vencimento: 03/03/26
 Dias vencidos: 0
-Data de registro: 30/01/26
+Data de registro: 13/01/26
 Cliente de: Jin Woo
-Parcelas: 16
-Parcelas pagas: 9
-Total pago: 873
+Parcelas: 20
+Parcelas pagas: 13
+Total pago: 1261
 Em aberto: 679
 Valor parcela: 97
-Pagamento esperado: 88
+Pagamento esperado: 97
 
-Nome: CLEYTON SOARES DE SOUSA
+Nome: JAMILLY OLIVEIRA LOPES
+Frequência: Quinzenal
+Valor contrato: 1100
+Valor a receber: 1618
+Vencimento: 02/03/26
+Dias vencidos: 1
+Data de registro: 14/01/26
+Cliente de: Jin Woo
+Juros: 33.43%
+Vezes pago: 2
+Total pago: 736
+Valor juros: 368
+Pagamento esperado: 368
+
+Nome: BEATRIZ CARDOSO DE  SOUSA
 Frequência: Semanal
 Valor contrato: 1000
-Valor a receber: 1400
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 20/11/25
+Valor a receber: 1452
+Vencimento: 07/03/26
+Dias vencidos: -4
+Data de registro: 27/12/25
 Cliente de: Jin Woo
-Parcelas: 8
-Parcelas pagas: 1
-Total pago: 200
-Em aberto: 1400
-Valor parcela: 200
-Pagamento esperado: 110
-
-Nome: JONATHAN DUARTE TEODOSIO
-Frequência: Diária
-Valor contrato: 350
-Valor a receber: 72
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 31/01/26
-Cliente de: Jin Woo
-Parcelas: 15
-Parcelas pagas: 13
-Total pago: 468
-Em aberto: 72
-Valor parcela: 36
-Pagamento esperado: 36
-
-Nome: ALAN FURTADO FERNANDES
-Frequência: Diária
-Valor contrato: 1000
-Valor a receber: 2000
-Vencimento: 28/02/26
-Dias vencidos: 1
-Data de registro: 23/01/26
-Cliente de: Jin Woo
-Parcelas: 42
-Parcelas pagas: 17
-Total pago: 1360
-Em aberto: 2000
-Valor parcela: 80
-Pagamento esperado: 160
-
-Nome: CARLOS LOPES GOMES
-Frequência: Diária
-Valor contrato: 1000
-Valor a receber: 1520
-Vencimento: 17/03/26
-Dias vencidos: -13
-Data de registro: 01/12/25
-Cliente de: Jin Woo
-Parcelas: 16
-Parcelas pagas: 0
-Total pago: 0
-Em aberto: 1520
-Valor parcela: 95
-Pagamento esperado: 95
+Juros: 25.2%
+Vezes pago: 9
+Total pago: 2268
+Valor juros: 252
+Pagamento esperado: 252
 
 Nome: AUXILIADORA DA COSTA SILVA
 Frequência: Quinzenal
 Valor contrato: 1600
 Valor a receber: 5040
 Vencimento: 12/03/26
-Dias vencidos: -10
+Dias vencidos: -9
 Data de registro: 11/12/25
 Cliente de: Jin Woo
 Parcelas: 16
@@ -3152,53 +3019,11 @@ Em aberto: 5040
 Valor parcela: 360
 Pagamento esperado: 360
 
-Nome: WESLEN DE ASSUNÇÃO LIMA
-Frequência: Semanal
-Valor contrato: 492
-Valor a receber: 1090
-Vencimento: 05/03/26
-Dias vencidos: -3
-Data de registro: 04/12/25
-Cliente de: Jin Woo
-Juros: 26%
-Vezes pago: 10
-Total pago: 1280
-Valor juros: 128
-Pagamento esperado: 128
-
-Nome: CLECINILSON LOURENCO DA CRUZ_
-Frequência: Semanal
-Valor contrato: 500
-Valor a receber: 685
-Vencimento: 28/02/26
-Dias vencidos: 2
-Data de registro: 01/01/26
-Cliente de: Jin Woo
-Juros: 26.99%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 135
-Pagamento esperado: 135
-
-Nome: VITOR GABRIEL DA SILVA LIMA
-Frequência: Quinzenal
-Valor contrato: 2000
-Valor a receber: 2710
-Vencimento: 04/03/26
-Dias vencidos: -2
-Data de registro: 02/02/26
-Cliente de: Jin Woo
-Juros: 35.5%
-Vezes pago: 1
-Total pago: 710
-Valor juros: 710
-Pagamento esperado: 710
-
 Nome: CARLOS AUGUSTO CARDOSO FILHO
 Frequência: Diária
 Valor contrato: 800
 Valor a receber: 1105
-Vencimento: 02/03/26
+Vencimento: 03/03/26
 Dias vencidos: 0
 Data de registro: 25/02/26
 Cliente de: Jin Woo
@@ -3209,112 +3034,186 @@ Em aberto: 1105
 Valor parcela: 65
 Pagamento esperado: 65
 
-Nome: ELISNALDO WAGNER CONCEIÇÃO DE ARAÚJO
-Frequência: Semanal
-Valor contrato: 1000
-Valor a receber: 1352
-Vencimento: 06/03/26
-Dias vencidos: -4
-Data de registro: 05/12/25
-Cliente de: Jin Woo
-Juros: 25.2%
-Vezes pago: 12
-Total pago: 3024
-Valor juros: 252
-Pagamento esperado: 252
-
-Nome: BEATRIZ CARDOSO DE  SOUSA
-Frequência: Semanal
-Valor contrato: 1000
-Valor a receber: 1452
-Vencimento: 07/03/26
-Dias vencidos: -5
-Data de registro: 27/12/25
-Cliente de: Jin Woo
-Juros: 25.2%
-Vezes pago: 9
-Total pago: 2268
-Valor juros: 252
-Pagamento esperado: 252
-
-Nome: LAISA DA COSTA GARCIA
-Frequência: Semanal
-Valor contrato: 1500
-Valor a receber: 1832
-Vencimento: 04/03/26
-Dias vencidos: -2
-Data de registro: 14/12/25
-Cliente de: Jin Woo
-Juros: 22.1%
-Vezes pago: 5
-Total pago: 1660
-Valor juros: 332
-Pagamento esperado: 332
-
-Nome: OSMAR DA CONCEIÇÃO MESQUITA
+Nome: JONATHAN DUARTE TEODOSIO
 Frequência: Diária
-Valor contrato: 500
-Valor a receber: 689
-Vencimento: 27/02/26
-Dias vencidos: 2
-Data de registro: 18/02/26
-Cliente de: Jin Woo
-Parcelas: 17
-Parcelas pagas: 4
-Total pago: 212
-Em aberto: 689
-Valor parcela: 53
-Pagamento esperado: 159
-
-Nome: CAETANO ALMEIDA DA SILVA_
-Frequência: Semanal
-Valor contrato: 700
-Valor a receber: 880
-Vencimento: 05/03/26
-Dias vencidos: -3
-Data de registro: 30/12/25
-Cliente de: Jin Woo
-Juros: 25.71429%
-Vezes pago: 8
-Total pago: 1440
-Valor juros: 180
-Pagamento esperado: 180
-
-Nome: ROMARIO DO CARMO DE LIMA
-Frequência: Semanal
-Valor contrato: 500
-Valor a receber: 682
+Valor contrato: 350
+Valor a receber: 36
 Vencimento: 03/03/26
-Dias vencidos: -1
-Data de registro: 06/01/26
-Cliente de: Jin Woo
-Juros: 26.4%
-Vezes pago: 7
-Total pago: 924
-Valor juros: 132
-Pagamento esperado: 132
-
-Nome: ELIVAR DE LIMA ALMEIDA
-Frequência: Diária
-Valor contrato: 900
-Valor a receber: 688
-Vencimento: 02/03/26
 Dias vencidos: 0
-Data de registro: 04/02/26
+Data de registro: 31/01/26
 Cliente de: Jin Woo
-Parcelas: 19
-Parcelas pagas: 11
-Total pago: 946
-Em aberto: 688
-Valor parcela: 86
-Pagamento esperado: 86
+Parcelas: 15
+Parcelas pagas: 14
+Total pago: 504
+Em aberto: 36
+Valor parcela: 36
+Pagamento esperado: 36
+
+Nome: HIRLENIO GIORCLEY LIMA PONTES_
+Frequência: Diária
+Valor contrato: 500
+Valor a receber: 742
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 20/02/26
+Cliente de: Jin Woo
+Parcelas: 16
+Parcelas pagas: 2
+Total pago: 106
+Em aberto: 742
+Valor parcela: 53
+Pagamento esperado: 53
+
+Nome: POLIANA DA COSTA MARQUES
+Frequência: Semanal
+Valor contrato: 950
+Valor a receber: 1250
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 18/11/25
+Cliente de: Jin Woo
+Juros: 26.31579%
+Vezes pago: 13
+Total pago: 3250
+Valor juros: 250
+Pagamento esperado: 140
+
+Nome: CLEYTON SOARES DE SOUSA
+Frequência: Semanal
+Valor contrato: 1000
+Valor a receber: 1400
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 20/11/25
+Cliente de: Jin Woo
+Parcelas: 8
+Parcelas pagas: 1
+Total pago: 200
+Em aberto: 1400
+Valor parcela: 200
+Pagamento esperado: 70
+
+Nome: RJ
+Frequência: Diária
+Valor contrato: 1
+Valor a receber: 750
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 20/02/26
+Cliente de: Jin Woo
+Parcelas: 10
+Parcelas pagas: 5
+Total pago: 750
+Em aberto: 750
+Valor parcela: 150
+Pagamento esperado: 300
+
+Nome: RAILSON DA SILVA VERAS
+Frequência: Personalizado
+Valor contrato: 1000
+Valor a receber: 1250
+Vencimento: 15/03/26
+Dias vencidos: -12
+Data de registro: 18/11/25
+Cliente de: Jin Woo
+Juros: 25%
+Vezes pago: 0
+Total pago: 0
+Valor juros: 1200
+Pagamento esperado: 1200
+
+Nome: MILLA CRISTIAN MACENA DE OLIVEIRA_
+Frequência: Semanal
+Valor contrato: 1000
+Valor a receber: 1210
+Vencimento: 05/03/26
+Dias vencidos: -2
+Data de registro: 19/02/26
+Cliente de: Jin Woo
+Juros: 21%
+Vezes pago: 1
+Total pago: 210
+Valor juros: 210
+Pagamento esperado: 210
+
+Nome: FRANCINILSON LIMA DE SOUSA
+Frequência: Semanal
+Valor contrato: 1000
+Valor a receber: 1228
+Vencimento: 09/03/26
+Dias vencidos: -6
+Data de registro: 01/12/25
+Cliente de: Jin Woo
+Juros: 25.8%
+Vezes pago: 13
+Total pago: 3354
+Valor juros: 258
+Pagamento esperado: 258
+
+Nome: SAMUEL SILVA BEZERRA
+Frequência: Semanal
+Valor contrato: 950
+Valor a receber: 1245
+Vencimento: 28/02/26
+Dias vencidos: 3
+Data de registro: 22/01/26
+Cliente de: Jin Woo
+Juros: 25.8%
+Vezes pago: 4
+Total pago: 980
+Valor juros: 245
+Pagamento esperado: 245
+
+Nome: ALCINEY SILVA DOS SANTOS JUNIOR_
+Frequência: Semanal
+Valor contrato: 500
+Valor a receber: 635
+Vencimento: 06/03/26
+Dias vencidos: -3
+Data de registro: 20/02/26
+Cliente de: Jin Woo
+Juros: 26.99%
+Vezes pago: 1
+Total pago: 135
+Valor juros: 135
+Pagamento esperado: 135
+
+Nome: ALAN FURTADO FERNANDES
+Frequência: Diária
+Valor contrato: 1000
+Valor a receber: 1840
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 23/01/26
+Cliente de: Jin Woo
+Parcelas: 42
+Parcelas pagas: 19
+Total pago: 1520
+Em aberto: 1840
+Valor parcela: 80
+Pagamento esperado: 80
+
+Nome: CARLOS LOPES GOMES
+Frequência: Diária
+Valor contrato: 1000
+Valor a receber: 1520
+Vencimento: 17/03/26
+Dias vencidos: -12
+Data de registro: 01/12/25
+Cliente de: Jin Woo
+Parcelas: 16
+Parcelas pagas: 0
+Total pago: 0
+Em aberto: 1520
+Valor parcela: 95
+Pagamento esperado: 95
 
 Nome: ADYS MECKSON SILVA
 Frequência: Mensal
 Valor contrato: 1000
 Valor a receber: 1500
 Vencimento: 30/03/26
-Dias vencidos: -28
+Dias vencidos: -27
 Data de registro: 05/08/25
 Cliente de: Mother
 Parcelas: 6
@@ -3324,27 +3223,12 @@ Em aberto: 1500
 Valor parcela: 500
 Pagamento esperado: 500
 
-Nome: RAIMISON SANTOS SILVA
-Frequência: Diária
-Valor contrato: 700
-Valor a receber: 990
-Vencimento: 21/01/26
-Dias vencidos: 34
-Data de registro: 03/12/25
-Cliente de: Quitações Beiço
-Parcelas: 17
-Parcelas pagas: 6
-Total pago: 540
-Em aberto: 990
-Valor parcela: 90
-Pagamento esperado: 3150
-
 Nome: JOÃO PAULO CARNEIRO VIEIRA
 Frequência: Personalizado
 Valor contrato: 1000
 Valor a receber: 12000
 Vencimento: 14/07/25
-Dias vencidos: 231
+Dias vencidos: 232
 Data de registro: 14/07/25
 Cliente de: Quitações Beiço
 Juros: 100%
@@ -3353,15 +3237,15 @@ Total pago: 0
 Valor juros: 12000
 Pagamento esperado: 12000
 
-Nome: ORLANY DE SOUZA ALVES_
+Nome: ALTENIZA MESQUITA DE ALMEIDA
 Frequência: Personalizado
-Valor contrato: 1000
+Valor contrato: 2000
 Valor a receber: 6000
-Vencimento: 02/09/25
-Dias vencidos: 181
-Data de registro: 16/08/25
+Vencimento: 27/09/25
+Dias vencidos: 157
+Data de registro: 13/08/25
 Cliente de: Quitações Beiço
-Juros: 36%
+Juros: 100%
 Vezes pago: 0
 Total pago: 0
 Valor juros: 6000
@@ -3372,7 +3256,7 @@ Frequência: Personalizado
 Valor contrato: 1000
 Valor a receber: 3500
 Vencimento: 01/11/25
-Dias vencidos: 121
+Dias vencidos: 122
 Data de registro: 21/07/25
 Cliente de: Quitações Beiço
 Juros: 100%
@@ -3381,54 +3265,12 @@ Total pago: 0
 Valor juros: 3500
 Pagamento esperado: 3500
 
-Nome: WEMERSON ALMEIDA DOS REIS
-Frequência: Personalizado
-Valor contrato: 600
-Valor a receber: 1500
-Vencimento: 08/11/25
-Dias vencidos: 114
-Data de registro: 16/09/25
-Cliente de: Quitações Beiço
-Juros: 100%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 1500
-Pagamento esperado: 1500
-
-Nome: JOSE GABRIEL DE ARAUJO MOREIRA_
-Frequência: Personalizado
-Valor contrato: 1000
-Valor a receber: 2000
-Vencimento: 22/10/25
-Dias vencidos: 131
-Data de registro: 19/08/25
-Cliente de: Quitações Beiço
-Juros: 100%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 4000
-Pagamento esperado: 4000
-
-Nome: ALTENIZA MESQUITA DE ALMEIDA
-Frequência: Personalizado
-Valor contrato: 2000
-Valor a receber: 6000
-Vencimento: 27/09/25
-Dias vencidos: 156
-Data de registro: 13/08/25
-Cliente de: Quitações Beiço
-Juros: 100%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 6000
-Pagamento esperado: 6000
-
 Nome: DINA SILVA SOUSA
 Frequência: Personalizado
 Valor contrato: 500
 Valor a receber: 1500
 Vencimento: 07/11/25
-Dias vencidos: 115
+Dias vencidos: 116
 Data de registro: 24/10/25
 Cliente de: Quitações Beiço
 Juros: 50%
@@ -3437,12 +3279,26 @@ Total pago: 3000
 Valor juros: 1500
 Pagamento esperado: 1500
 
+Nome: WEMERSON ALMEIDA DOS REIS
+Frequência: Personalizado
+Valor contrato: 600
+Valor a receber: 1500
+Vencimento: 08/11/25
+Dias vencidos: 115
+Data de registro: 16/09/25
+Cliente de: Quitações Beiço
+Juros: 100%
+Vezes pago: 0
+Total pago: 0
+Valor juros: 1500
+Pagamento esperado: 1500
+
 Nome: DAILTON SILVA SALGADO
 Frequência: Personalizado
 Valor contrato: 500
 Valor a receber: 1000
 Vencimento: 25/07/25
-Dias vencidos: 220
+Dias vencidos: 221
 Data de registro: 24/07/25
 Cliente de: Quitações Beiço
 Juros: 100%
@@ -3451,26 +3307,97 @@ Total pago: 0
 Valor juros: 3000
 Pagamento esperado: 3000
 
-Nome: WILDESON NEVES SILVA
+Nome: ORLANY DE SOUZA ALVES_
 Frequência: Personalizado
-Valor contrato: 500
-Valor a receber: 2650
-Vencimento: 01/12/25
-Dias vencidos: 91
-Data de registro: 15/11/25
-Cliente de: Quitações Santos
+Valor contrato: 1000
+Valor a receber: 6000
+Vencimento: 02/09/25
+Dias vencidos: 182
+Data de registro: 16/08/25
+Cliente de: Quitações Beiço
+Juros: 36%
+Vezes pago: 0
+Total pago: 0
+Valor juros: 6000
+Pagamento esperado: 6000
+
+Nome: RAIMISON SANTOS SILVA
+Frequência: Diária
+Valor contrato: 700
+Valor a receber: 990
+Vencimento: 21/01/26
+Dias vencidos: 35
+Data de registro: 03/12/25
+Cliente de: Quitações Beiço
+Parcelas: 17
+Parcelas pagas: 6
+Total pago: 540
+Em aberto: 990
+Valor parcela: 90
+Pagamento esperado: 3240
+
+Nome: JOSE GABRIEL DE ARAUJO MOREIRA_
+Frequência: Personalizado
+Valor contrato: 1000
+Valor a receber: 2000
+Vencimento: 22/10/25
+Dias vencidos: 132
+Data de registro: 19/08/25
+Cliente de: Quitações Beiço
 Juros: 100%
 Vezes pago: 0
 Total pago: 0
-Valor juros: 1500
-Pagamento esperado: 1500
+Valor juros: 4000
+Pagamento esperado: 4000
+
+Nome: JUCIVAL SOUSA DOS SANTOS
+Frequência: Personalizado
+Valor contrato: 1000
+Valor a receber: 2900
+Vencimento: 22/08/25
+Dias vencidos: 193
+Data de registro: 15/08/25
+Cliente de: Quitações Santos
+Juros: 25%
+Vezes pago: 1
+Total pago: 7000
+Valor juros: 7000
+Pagamento esperado: 7000
+
+Nome: ORLANY DE SOUZA ALVES
+Frequência: Personalizado
+Valor contrato: 1000
+Valor a receber: 2900
+Vencimento: 10/09/25
+Dias vencidos: 174
+Data de registro: 28/07/25
+Cliente de: Quitações Santos
+Juros: 25%
+Vezes pago: 0
+Total pago: 0
+Valor juros: 6000
+Pagamento esperado: 6000
+
+Nome: SKARLEN MARIA DA SILVA
+Frequência: Personalizado
+Valor contrato: 500
+Valor a receber: 2275
+Vencimento: 21/08/25
+Dias vencidos: 194
+Data de registro: 14/08/25
+Cliente de: Quitações Santos
+Juros: 25%
+Vezes pago: 0
+Total pago: 0
+Valor juros: 6000
+Pagamento esperado: 6000
 
 Nome: RAMON BARBOSA AMARAL
 Frequência: Personalizado
 Valor contrato: 1000
 Valor a receber: 0
 Vencimento: 16/12/25
-Dias vencidos: 76
+Dias vencidos: 77
 Data de registro: 19/08/25
 Cliente de: Quitações Santos
 Parcelas: 16
@@ -3480,153 +3407,12 @@ Em aberto: 0
 Valor parcela: 5000
 Pagamento esperado: 5000
 
-Nome: AMBROSI CANDALLO
-Frequência: Semanal
-Valor contrato: 800
-Valor a receber: 1570
-Vencimento: 28/01/26
-Dias vencidos: 33
-Data de registro: 23/07/25
-Cliente de: Quitações Santos
-Juros: 15%
-Vezes pago: 27
-Total pago: 3240
-Valor juros: 120
-Pagamento esperado: 600
-
-Nome: ORLANY DE SOUZA ALVES
-Frequência: Personalizado
-Valor contrato: 1000
-Valor a receber: 2900
-Vencimento: 10/09/25
-Dias vencidos: 173
-Data de registro: 28/07/25
-Cliente de: Quitações Santos
-Juros: 25%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 6000
-Pagamento esperado: 6000
-
-Nome: Shelziane Coelho Batista
-Frequência: Diária
-Valor contrato: 800
-Valor a receber: 1260
-Vencimento: 07/01/26
-Dias vencidos: 46
-Data de registro: 28/07/25
-Cliente de: Quitações Santos
-Parcelas: 32
-Parcelas pagas: 10
-Total pago: 600
-Em aberto: 1260
-Valor parcela: 60
-Pagamento esperado: 2780
-
-Nome: DIADORIM RIBEIRO DA SILVA
-Frequência: Personalizado
-Valor contrato: 500
-Valor a receber: 5320
-Vencimento: 13/09/25
-Dias vencidos: 170
-Data de registro: 06/09/25
-Cliente de: Quitações Santos
-Juros: 34%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 3000
-Pagamento esperado: 3000
-
-Nome: FELIPE JOSE DO NASCIMENTO FERREIRA
-Frequência: Personalizado
-Valor contrato: 500
-Valor a receber: 2650
-Vencimento: 08/09/25
-Dias vencidos: 175
-Data de registro: 07/09/25
-Cliente de: Quitações Santos
-Juros: 100%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 8000
-Pagamento esperado: 8000
-
-Nome: JUCIVAL SOUSA DOS SANTOS
-Frequência: Personalizado
-Valor contrato: 1000
-Valor a receber: 2900
-Vencimento: 22/08/25
-Dias vencidos: 192
-Data de registro: 15/08/25
-Cliente de: Quitações Santos
-Juros: 25%
-Vezes pago: 1
-Total pago: 7000
-Valor juros: 7000
-Pagamento esperado: 7000
-
-Nome: SKARLEN MARIA DA SILVA
-Frequência: Personalizado
-Valor contrato: 500
-Valor a receber: 2275
-Vencimento: 21/08/25
-Dias vencidos: 193
-Data de registro: 14/08/25
-Cliente de: Quitações Santos
-Juros: 25%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 6000
-Pagamento esperado: 6000
-
-Nome: GARDNER TAAT GOMES
-Frequência: Personalizado
-Valor contrato: 1000
-Valor a receber: 2900
-Vencimento: 29/11/25
-Dias vencidos: 93
-Data de registro: 15/09/25
-Cliente de: Quitações Santos
-Juros: 25%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 3000
-Pagamento esperado: 3000
-
-Nome: THAYLAN PEREIRA DE MELO_
-Frequência: Personalizado
-Valor contrato: 1500
-Valor a receber: 4650
-Vencimento: 05/09/25
-Dias vencidos: 178
-Data de registro: 24/08/25
-Cliente de: Quitações Santos
-Juros: 100%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 6000
-Pagamento esperado: 6000
-
-Nome: Zuriel Mota Ferreira
-Frequência: Personalizado
-Valor contrato: 0
-Valor a receber: 5950
-Vencimento: 30/08/25
-Dias vencidos: 184
-Data de registro: 22/09/25
-Cliente de: Quitações Santos
-Juros: 100%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 1
-Pagamento esperado: 1
-
 Nome: WESLEY SILVA PEREIRA
 Frequência: Personalizado
 Valor contrato: 1400
 Valor a receber: 4450
 Vencimento: 26/11/25
-Dias vencidos: 96
+Dias vencidos: 97
 Data de registro: 05/08/25
 Cliente de: Quitações Santos
 Juros: 100%
@@ -3640,7 +3426,7 @@ Frequência: Personalizado
 Valor contrato: 1000
 Valor a receber: 4900
 Vencimento: 30/10/25
-Dias vencidos: 123
+Dias vencidos: 124
 Data de registro: 23/07/25
 Cliente de: Quitações Santos
 Juros: 100%
@@ -3649,12 +3435,153 @@ Total pago: 0
 Valor juros: 1000
 Pagamento esperado: 1150
 
+Nome: THAYLAN PEREIRA DE MELO_
+Frequência: Personalizado
+Valor contrato: 1500
+Valor a receber: 4650
+Vencimento: 05/09/25
+Dias vencidos: 179
+Data de registro: 24/08/25
+Cliente de: Quitações Santos
+Juros: 100%
+Vezes pago: 0
+Total pago: 0
+Valor juros: 6000
+Pagamento esperado: 6000
+
+Nome: WANDRILL DE ALBUQUERQUE OLIVEIRA
+Frequência: Personalizado
+Valor contrato: 700
+Valor a receber: 3050
+Vencimento: 23/09/25
+Dias vencidos: 161
+Data de registro: 18/09/25
+Cliente de: Quitações Santos
+Juros: 100%
+Vezes pago: 0
+Total pago: 0
+Valor juros: 7000
+Pagamento esperado: 7000
+
+Nome: GARDNER TAAT GOMES
+Frequência: Personalizado
+Valor contrato: 1000
+Valor a receber: 2900
+Vencimento: 29/11/25
+Dias vencidos: 94
+Data de registro: 15/09/25
+Cliente de: Quitações Santos
+Juros: 25%
+Vezes pago: 0
+Total pago: 0
+Valor juros: 3000
+Pagamento esperado: 3000
+
+Nome: FELIPE JOSE DO NASCIMENTO FERREIRA
+Frequência: Personalizado
+Valor contrato: 500
+Valor a receber: 2650
+Vencimento: 08/09/25
+Dias vencidos: 176
+Data de registro: 07/09/25
+Cliente de: Quitações Santos
+Juros: 100%
+Vezes pago: 0
+Total pago: 0
+Valor juros: 8000
+Pagamento esperado: 8000
+
+Nome: DIADORIM RIBEIRO DA SILVA
+Frequência: Personalizado
+Valor contrato: 500
+Valor a receber: 5320
+Vencimento: 13/09/25
+Dias vencidos: 171
+Data de registro: 06/09/25
+Cliente de: Quitações Santos
+Juros: 34%
+Vezes pago: 0
+Total pago: 0
+Valor juros: 3000
+Pagamento esperado: 3000
+
+Nome: ISAQUE MELQUISEDEQUE DE SARAIVA
+Frequência: Personalizado
+Valor contrato: 1000
+Valor a receber: 3150
+Vencimento: 05/01/26
+Dias vencidos: 57
+Data de registro: 01/11/25
+Cliente de: Quitações Santos
+Juros: 100%
+Vezes pago: 0
+Total pago: 0
+Valor juros: 3000
+Pagamento esperado: 3000
+
+Nome: Zuriel Mota Ferreira
+Frequência: Personalizado
+Valor contrato: 0
+Valor a receber: 5950
+Vencimento: 30/08/25
+Dias vencidos: 185
+Data de registro: 22/09/25
+Cliente de: Quitações Santos
+Juros: 100%
+Vezes pago: 0
+Total pago: 0
+Valor juros: 1
+Pagamento esperado: 1
+
+Nome: Shelziane Coelho Batista
+Frequência: Diária
+Valor contrato: 800
+Valor a receber: 1260
+Vencimento: 07/01/26
+Dias vencidos: 47
+Data de registro: 28/07/25
+Cliente de: Quitações Santos
+Parcelas: 32
+Parcelas pagas: 10
+Total pago: 600
+Em aberto: 1260
+Valor parcela: 60
+Pagamento esperado: 2840
+
+Nome: AMBROSI CANDALLO
+Frequência: Semanal
+Valor contrato: 800
+Valor a receber: 1570
+Vencimento: 28/01/26
+Dias vencidos: 34
+Data de registro: 23/07/25
+Cliente de: Quitações Santos
+Juros: 15%
+Vezes pago: 27
+Total pago: 3240
+Valor juros: 120
+Pagamento esperado: 600
+
+Nome: WILDESON NEVES SILVA
+Frequência: Personalizado
+Valor contrato: 500
+Valor a receber: 2650
+Vencimento: 01/12/25
+Dias vencidos: 92
+Data de registro: 15/11/25
+Cliente de: Quitações Santos
+Juros: 100%
+Vezes pago: 0
+Total pago: 0
+Valor juros: 1500
+Pagamento esperado: 1500
+
 Nome: JERDESON DA SILVA BARBOSA
 Frequência: Personalizado
 Valor contrato: 1000
 Valor a receber: 0
 Vencimento: 11/01/26
-Dias vencidos: 50
+Dias vencidos: 51
 Data de registro: 07/01/26
 Cliente de: Quitações Santos
 Parcelas: 18
@@ -3664,40 +3591,12 @@ Em aberto: 0
 Valor parcela: 3500
 Pagamento esperado: 3500
 
-Nome: Francisco Charles Valente De Andrade
-Frequência: Personalizado
-Valor contrato: 1000
-Valor a receber: 3500
-Vencimento: 08/12/25
-Dias vencidos: 84
-Data de registro: 25/10/25
-Cliente de: Quitações Santos
-Juros: 100%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 3500
-Pagamento esperado: 3500
-
-Nome: ISAQUE MELQUISEDEQUE DE SARAIVA
-Frequência: Personalizado
-Valor contrato: 1000
-Valor a receber: 3150
-Vencimento: 05/01/26
-Dias vencidos: 56
-Data de registro: 01/11/25
-Cliente de: Quitações Santos
-Juros: 100%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 3000
-Pagamento esperado: 3000
-
 Nome: AXEL AHDREL DA GAMA NUNES
 Frequência: Personalizado
 Valor contrato: 350
 Valor a receber: 1200
 Vencimento: 01/01/26
-Dias vencidos: 60
+Dias vencidos: 61
 Data de registro: 26/12/25
 Cliente de: Quitações Santos
 Juros: 100%
@@ -3706,61 +3605,61 @@ Total pago: 0
 Valor juros: 1200
 Pagamento esperado: 1200
 
-Nome: WANDRILL DE ALBUQUERQUE OLIVEIRA
+Nome: Francisco Charles Valente De Andrade
 Frequência: Personalizado
-Valor contrato: 700
-Valor a receber: 3050
-Vencimento: 23/09/25
-Dias vencidos: 160
-Data de registro: 18/09/25
+Valor contrato: 1000
+Valor a receber: 3500
+Vencimento: 08/12/25
+Dias vencidos: 85
+Data de registro: 25/10/25
 Cliente de: Quitações Santos
 Juros: 100%
 Vezes pago: 0
 Total pago: 0
-Valor juros: 7000
-Pagamento esperado: 7000
+Valor juros: 3500
+Pagamento esperado: 3500
 
-Nome: MÁVIA LOURDES SANTOS DUARTE
+Nome: SILVAN DOS SANTOS LOPES
 Frequência: Semanal
-Valor contrato: 750
-Valor a receber: 938
-Vencimento: 06/03/26
-Dias vencidos: -4
-Data de registro: 15/08/25
+Valor contrato: 1000
+Valor a receber: 1150
+Vencimento: 09/03/26
+Dias vencidos: -6
+Data de registro: 13/10/25
 Cliente de: Said
-Juros: 25%
-Vezes pago: 28
-Total pago: 5264
-Valor juros: 188
-Pagamento esperado: 188
+Juros: 15%
+Vezes pago: 20
+Total pago: 3000
+Valor juros: 150
+Pagamento esperado: 150
 
 Nome: VALDINEI NASCIMENTO ALMEIRO
 Frequência: Diária
 Valor contrato: 700
-Valor a receber: 630
-Vencimento: 02/03/26
+Valor a receber: 660
+Vencimento: 03/03/26
 Dias vencidos: 0
 Data de registro: 13/08/25
 Cliente de: Said
-Parcelas: 101
+Parcelas: 102
 Parcelas pagas: 80
 Total pago: 2400
-Em aberto: 630
+Em aberto: 660
 Valor parcela: 30
 Pagamento esperado: 30
 
 Nome: RUBENS AVELINO DA SILVA
 Frequência: Semanal
 Valor contrato: 700
-Valor a receber: 1330
-Vencimento: 27/02/26
-Dias vencidos: 3
+Valor a receber: 1140
+Vencimento: 06/03/26
+Dias vencidos: -3
 Data de registro: 08/08/25
 Cliente de: Said
 Parcelas: 8
-Parcelas pagas: 1
-Total pago: 190
-Em aberto: 1330
+Parcelas pagas: 2
+Total pago: 380
+Em aberto: 1140
 Valor parcela: 190
 Pagamento esperado: 190
 
@@ -3769,7 +3668,7 @@ Frequência: Mensal
 Valor contrato: 750
 Valor a receber: 2600
 Vencimento: 10/03/26
-Dias vencidos: -8
+Dias vencidos: -7
 Data de registro: 05/08/25
 Cliente de: Said
 Parcelas: 4
@@ -3779,85 +3678,12 @@ Em aberto: 2600
 Valor parcela: 650
 Pagamento esperado: 650
 
-Nome: CARLISON FERREIRA DA SILVA
-Frequência: Semanal
-Valor contrato: 1000
-Valor a receber: 10000
-Vencimento: 07/03/26
-Dias vencidos: -5
-Data de registro: 04/08/25
-Cliente de: Said
-Parcelas: 120
-Parcelas pagas: 20
-Total pago: 2000
-Em aberto: 10000
-Valor parcela: 100
-Pagamento esperado: 100
-
-Nome: GISELE DE SOUZA CORREA
-Frequência: Personalizado
-Valor contrato: 0
-Valor a receber: 4000
-Vencimento: 08/03/26
-Dias vencidos: -6
-Data de registro: 14/08/25
-Cliente de: Said
-Juros: 100%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 1000
-Pagamento esperado: 600
-
-Nome: MILLA CRISTIAN MACENA DE OLIVEIRA
-Frequência: Diária
-Valor contrato: 0
-Valor a receber: 2550
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 14/08/25
-Cliente de: Said
-Parcelas: 143
-Parcelas pagas: 58
-Total pago: 1740
-Em aberto: 2550
-Valor parcela: 30
-Pagamento esperado: 30
-
-Nome: RAPHAEL PEREIRA UCHOA
-Frequência: Semanal
-Valor contrato: 1000
-Valor a receber: 3150
-Vencimento: 01/03/26
-Dias vencidos: 1
-Data de registro: 24/10/25
-Cliente de: Said
-Parcelas: 30
-Parcelas pagas: 12
-Total pago: 2100
-Em aberto: 3150
-Valor parcela: 175
-Pagamento esperado: 175
-
-Nome: SILVAN DOS SANTOS LOPES
-Frequência: Semanal
-Valor contrato: 1000
-Valor a receber: 1150
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 13/10/25
-Cliente de: Said
-Juros: 15%
-Vezes pago: 19
-Total pago: 2850
-Valor juros: 150
-Pagamento esperado: 150
-
 Nome: CLEIZE RODRIGUES REIS
 Frequência: Semanal
 Valor contrato: 1000
 Valor a receber: 1000
 Vencimento: 09/03/26
-Dias vencidos: -7
+Dias vencidos: -6
 Data de registro: 30/09/25
 Cliente de: Said
 Parcelas: 6
@@ -3867,70 +3693,27 @@ Em aberto: 1000
 Valor parcela: 250
 Pagamento esperado: 250
 
-Nome: VANUSA DE JESUS
-Frequência: Personalizado
-Valor contrato: 1000
-Valor a receber: 2000
-Vencimento: 28/02/26
-Dias vencidos: 2
-Data de registro: 29/09/25
-Cliente de: Said
-Juros: 100%
-Vezes pago: 0
-Total pago: 0
-Valor juros: 2000
-Pagamento esperado: 2000
-
-Nome: LEANDRA CRISTINA RIOS LIMA
+Nome: CARLISON FERREIRA DA SILVA
 Frequência: Semanal
 Valor contrato: 1000
-Valor a receber: 1500
-Vencimento: 03/03/26
-Dias vencidos: -1
-Data de registro: 24/09/25
+Valor a receber: 10000
+Vencimento: 07/03/26
+Dias vencidos: -4
+Data de registro: 04/08/25
 Cliente de: Said
-Parcelas: 8
-Parcelas pagas: 2
-Total pago: 500
-Em aberto: 1500
-Valor parcela: 250
-Pagamento esperado: 250
-
-Nome: WELLYNGTON NASCIMENTO DE SOUSA
-Frequência: Mensal
-Valor contrato: 1000
-Valor a receber: 400
-Vencimento: 12/03/26
-Dias vencidos: -10
-Data de registro: 22/09/25
-Cliente de: Said
-Parcelas: 4
-Parcelas pagas: 3
-Total pago: 1200
-Em aberto: 400
-Valor parcela: 400
-Pagamento esperado: 200
-
-Nome: JANDSON COLARES DIAS
-Frequência: Semanal
-Valor contrato: 700
-Valor a receber: 975
-Vencimento: 03/03/26
-Dias vencidos: -1
-Data de registro: 16/09/25
-Cliente de: Said
-Juros: 25%
-Vezes pago: 23
-Total pago: 4025
-Valor juros: 175
-Pagamento esperado: 175
+Parcelas: 120
+Parcelas pagas: 20
+Total pago: 2000
+Em aberto: 10000
+Valor parcela: 100
+Pagamento esperado: 100
 
 Nome: LAECIO ALVES DE LIMA
 Frequência: Semanal
 Valor contrato: 500
 Valor a receber: 875
 Vencimento: 07/03/26
-Dias vencidos: -5
+Dias vencidos: -4
 Data de registro: 16/07/25
 Cliente de: Said
 Juros: 25%
@@ -3939,71 +3722,56 @@ Total pago: 4000
 Valor juros: 125
 Pagamento esperado: 125
 
-Nome: ANDRE WINTER
-Frequência: Semanal
-Valor contrato: 600
-Valor a receber: 840
-Vencimento: 04/03/26
-Dias vencidos: -2
-Data de registro: 10/09/25
-Cliente de: Said
-Juros: 15%
-Vezes pago: 24
-Total pago: 2160
-Valor juros: 90
-Pagamento esperado: 90
-
-Nome: JOÃO VICTOR FURTADO DA CONCEIÇÃO
-Frequência: Quinzenal
-Valor contrato: 3500
-Valor a receber: 6750
-Vencimento: 02/03/26
+Nome: JEFFERSON PEREIRA LIMA
+Frequência: Diária
+Valor contrato: 500
+Valor a receber: 1640
+Vencimento: 03/03/26
 Dias vencidos: 0
-Data de registro: 01/07/25
+Data de registro: 26/07/25
 Cliente de: Said
-Parcelas: 34
-Parcelas pagas: 7
-Total pago: 1750
-Em aberto: 6750
-Valor parcela: 250
-Pagamento esperado: 250
+Parcelas: 165
+Parcelas pagas: 83
+Total pago: 1660
+Em aberto: 1640
+Valor parcela: 20
+Pagamento esperado: 20
 
-Nome: THAINARA OLIVEIRA DA SILVA
+Nome: RAPHAEL PEREIRA UCHOA
 Frequência: Semanal
 Valor contrato: 1000
-Valor a receber: 450
-Vencimento: 07/03/26
-Dias vencidos: -5
-Data de registro: 04/09/25
+Valor a receber: 3150
+Vencimento: 01/03/26
+Dias vencidos: 2
+Data de registro: 24/10/25
 Cliente de: Said
-Parcelas: 8
-Parcelas pagas: 5
-Total pago: 750
-Em aberto: 450
-Valor parcela: 150
-Pagamento esperado: 150
+Parcelas: 30
+Parcelas pagas: 12
+Total pago: 2100
+Em aberto: 3150
+Valor parcela: 175
+Pagamento esperado: 175
 
-Nome: ERIKA LISBETH ASCANIO
-Frequência: Semanal
-Valor contrato: 500
-Valor a receber: 2700
-Vencimento: 07/03/26
+Nome: GISELE DE SOUZA CORREA
+Frequência: Personalizado
+Valor contrato: 0
+Valor a receber: 4000
+Vencimento: 08/03/26
 Dias vencidos: -5
-Data de registro: 04/09/25
+Data de registro: 14/08/25
 Cliente de: Said
-Parcelas: 38
-Parcelas pagas: 20
-Total pago: 3000
-Em aberto: 2700
-Valor parcela: 150
-Pagamento esperado: 150
+Juros: 100%
+Vezes pago: 0
+Total pago: 0
+Valor juros: 1000
+Pagamento esperado: 600
 
 Nome: JORGE LUIZ PATRICIO DA SILVA
 Frequência: Semanal
 Valor contrato: 500
 Valor a receber: 1650
 Vencimento: 05/03/26
-Dias vencidos: -3
+Dias vencidos: -2
 Data de registro: 22/07/25
 Cliente de: Said
 Parcelas: 15
@@ -4016,24 +3784,39 @@ Pagamento esperado: 150
 Nome: NAZIREU MATOS MAQUINE
 Frequência: Diária
 Valor contrato: 1700
-Valor a receber: 3000
-Vencimento: 02/03/26
+Valor a receber: 2950
+Vencimento: 03/03/26
 Dias vencidos: 0
 Data de registro: 24/07/25
 Cliente de: Said
 Parcelas: 70
-Parcelas pagas: 10
-Total pago: 500
-Em aberto: 3000
+Parcelas pagas: 11
+Total pago: 550
+Em aberto: 2950
 Valor parcela: 50
-Pagamento esperado: 50
+Pagamento esperado: 60
+
+Nome: MILLA CRISTIAN MACENA DE OLIVEIRA
+Frequência: Diária
+Valor contrato: 0
+Valor a receber: 2550
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 14/08/25
+Cliente de: Said
+Parcelas: 143
+Parcelas pagas: 58
+Total pago: 1740
+Em aberto: 2550
+Valor parcela: 30
+Pagamento esperado: 30
 
 Nome: WENDELL CHRISTIAN SILVA ALVES_
 Frequência: Diária
 Valor contrato: 2000
 Valor a receber: 2160
 Vencimento: 02/03/26
-Dias vencidos: 0
+Dias vencidos: 1
 Data de registro: 25/07/25
 Cliente de: Said
 Parcelas: 198
@@ -4041,29 +3824,14 @@ Parcelas pagas: 126
 Total pago: 3780
 Em aberto: 2160
 Valor parcela: 30
-Pagamento esperado: 30
-
-Nome: JEFFERSON PEREIRA LIMA
-Frequência: Diária
-Valor contrato: 500
-Valor a receber: 1620
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 26/07/25
-Cliente de: Said
-Parcelas: 164
-Parcelas pagas: 83
-Total pago: 1660
-Em aberto: 1620
-Valor parcela: 20
-Pagamento esperado: 20
+Pagamento esperado: 60
 
 Nome: ALINE BARRETO DE FREITAS
 Frequência: Diária
 Valor contrato: 700
 Valor a receber: 1410
 Vencimento: 13/02/26
-Dias vencidos: 14
+Dias vencidos: 15
 Data de registro: 15/07/25
 Cliente de: Said
 Parcelas: 119
@@ -4071,120 +3839,137 @@ Parcelas pagas: 72
 Total pago: 2160
 Em aberto: 1410
 Valor parcela: 30
-Pagamento esperado: 450
+Pagamento esperado: 480
 
-Nome: João Macelo Do Vale Martins
+Nome: JOÃO VICTOR FURTADO DA CONCEIÇÃO
+Frequência: Quinzenal
+Valor contrato: 3500
+Valor a receber: 6750
+Vencimento: 02/03/26
+Dias vencidos: 1
+Data de registro: 01/07/25
+Cliente de: Said
+Parcelas: 34
+Parcelas pagas: 7
+Total pago: 1750
+Em aberto: 6750
+Valor parcela: 250
+Pagamento esperado: 250
+
+Nome: MÁVIA LOURDES SANTOS DUARTE
 Frequência: Semanal
-Valor contrato: 1300
-Valor a receber: 1600
-Vencimento: 19/03/26
-Dias vencidos: -17
-Data de registro: 23/07/25
-Cliente de: Sysjuros
-Parcelas: 11
+Valor contrato: 750
+Valor a receber: 938
+Vencimento: 06/03/26
+Dias vencidos: -3
+Data de registro: 15/08/25
+Cliente de: Said
+Juros: 25%
+Vezes pago: 28
+Total pago: 5264
+Valor juros: 188
+Pagamento esperado: 188
+
+Nome: VANUSA DE JESUS
+Frequência: Personalizado
+Valor contrato: 1000
+Valor a receber: 2000
+Vencimento: 27/03/26
+Dias vencidos: -24
+Data de registro: 29/09/25
+Cliente de: Said
+Juros: 100%
+Vezes pago: 0
+Total pago: 0
+Valor juros: 2000
+Pagamento esperado: 2000
+
+Nome: THAINARA OLIVEIRA DA SILVA
+Frequência: Semanal
+Valor contrato: 1000
+Valor a receber: 450
+Vencimento: 07/03/26
+Dias vencidos: -4
+Data de registro: 04/09/25
+Cliente de: Said
+Parcelas: 8
+Parcelas pagas: 5
+Total pago: 750
+Em aberto: 450
+Valor parcela: 150
+Pagamento esperado: 150
+
+Nome: JANDSON COLARES DIAS
+Frequência: Semanal
+Valor contrato: 700
+Valor a receber: 975
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 16/09/25
+Cliente de: Said
+Juros: 25%
+Vezes pago: 23
+Total pago: 4025
+Valor juros: 175
+Pagamento esperado: 175
+
+Nome: WELLYNGTON NASCIMENTO DE SOUSA
+Frequência: Mensal
+Valor contrato: 1000
+Valor a receber: 400
+Vencimento: 12/03/26
+Dias vencidos: -9
+Data de registro: 22/09/25
+Cliente de: Said
+Parcelas: 4
 Parcelas pagas: 3
-Total pago: 600
-Em aberto: 1600
-Valor parcela: 200
+Total pago: 1200
+Em aberto: 400
+Valor parcela: 400
 Pagamento esperado: 200
 
-Nome: Francisca Maria Da Silva
-Frequência: Diária
-Valor contrato: 1000
-Valor a receber: 47500
-Vencimento: 03/03/26
+Nome: ANDRE WINTER
+Frequência: Semanal
+Valor contrato: 600
+Valor a receber: 840
+Vencimento: 04/03/26
 Dias vencidos: -1
-Data de registro: 23/07/25
-Cliente de: Sysjuros
-Parcelas: 513
-Parcelas pagas: 38
-Total pago: 3800
-Em aberto: 47500
-Valor parcela: 100
-Pagamento esperado: 100
-
-Nome: Claudio Pereira Da Silva
-Frequência: Semanal
-Valor contrato: 521.7391
-Valor a receber: 750
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 23/07/25
-Cliente de: Sysjuros
+Data de registro: 10/09/25
+Cliente de: Said
 Juros: 15%
-Vezes pago: 32
-Total pago: 3200
-Valor juros: 100
-Pagamento esperado: 100
+Vezes pago: 24
+Total pago: 2160
+Valor juros: 90
+Pagamento esperado: 90
 
-Nome: Erica Carvalho Macedo
-Frequência: Semanal
-Valor contrato: 800
-Valor a receber: 1170
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 23/07/25
-Cliente de: Sysjuros
-Juros: 15%
-Vezes pago: 32
-Total pago: 3840
-Valor juros: 120
-Pagamento esperado: 120
-
-Nome: Cicera Muniz Guedes
-Frequência: Semanal
-Valor contrato: 800
-Valor a receber: 2070
-Vencimento: 07/03/26
-Dias vencidos: -5
-Data de registro: 23/07/25
-Cliente de: Sysjuros
-Juros: 15%
-Vezes pago: 30
-Total pago: 3600
-Valor juros: 120
-Pagamento esperado: 120
-
-Nome: RAIZA ALEXANDRE DA SILVA
-Frequência: Semanal
-Valor contrato: 500
-Valor a receber: 575
-Vencimento: 05/03/26
-Dias vencidos: -3
-Data de registro: 23/07/25
-Cliente de: Sysjuros
-Juros: 15%
-Vezes pago: 35
-Total pago: 2625
-Valor juros: 75
-Pagamento esperado: 75
-
-Nome: MIDIAN OLIVEIRA DO VALLE
-Frequência: Semanal
-Valor contrato: 500
-Valor a receber: 600
-Vencimento: 02/03/26
-Dias vencidos: 0
-Data de registro: 23/07/25
-Cliente de: Sysjuros
-Juros: 20%
-Vezes pago: 28
-Total pago: 2800
-Valor juros: 100
-Pagamento esperado: 100
-
-Nome: DARLYSON SILVA DA SILVA
+Nome: LEANDRA CRISTINA RIOS LIMA
 Frequência: Semanal
 Valor contrato: 1000
-Valor a receber: 1150
-Vencimento: 02/03/26
+Valor a receber: 1500
+Vencimento: 03/03/26
 Dias vencidos: 0
-Data de registro: 23/07/25
-Cliente de: Sysjuros
-Juros: 15%
-Vezes pago: 32
-Total pago: 4800
-Valor juros: 150
+Data de registro: 24/09/25
+Cliente de: Said
+Parcelas: 8
+Parcelas pagas: 2
+Total pago: 500
+Em aberto: 1500
+Valor parcela: 250
+Pagamento esperado: 250
+
+Nome: ERIKA LISBETH ASCANIO
+Frequência: Semanal
+Valor contrato: 500
+Valor a receber: 2700
+Vencimento: 07/03/26
+Dias vencidos: -4
+Data de registro: 04/09/25
+Cliente de: Said
+Parcelas: 38
+Parcelas pagas: 20
+Total pago: 3000
+Em aberto: 2700
+Valor parcela: 150
 Pagamento esperado: 150
 
 Nome: MILIHADE OLIVEIRA DO VALLE
@@ -4192,7 +3977,7 @@ Frequência: Semanal
 Valor contrato: 1600
 Valor a receber: 1600
 Vencimento: 26/02/26
-Dias vencidos: 4
+Dias vencidos: 5
 Data de registro: 23/07/25
 Cliente de: Sysjuros
 Parcelas: 27
@@ -4202,26 +3987,27 @@ Em aberto: 1600
 Valor parcela: 200
 Pagamento esperado: 200
 
-Nome: FABIO JUNIO ALVES PEREIRA
+Nome: João Macelo Do Vale Martins
 Frequência: Semanal
-Valor contrato: 1000
-Valor a receber: 1150
-Vencimento: 05/03/26
-Dias vencidos: -3
+Valor contrato: 1300
+Valor a receber: 1600
+Vencimento: 19/03/26
+Dias vencidos: -16
 Data de registro: 23/07/25
 Cliente de: Sysjuros
-Juros: 15%
-Vezes pago: 33
-Total pago: 4950
-Valor juros: 150
-Pagamento esperado: 150
+Parcelas: 11
+Parcelas pagas: 3
+Total pago: 600
+Em aberto: 1600
+Valor parcela: 200
+Pagamento esperado: 200
 
 Nome: VALDEIR SOUSA BEZERRA
 Frequência: Semanal
 Valor contrato: 700
 Valor a receber: 840
 Vencimento: 08/03/26
-Dias vencidos: -6
+Dias vencidos: -5
 Data de registro: 24/08/25
 Cliente de: Sysjuros
 Juros: 20%
@@ -4230,27 +4016,155 @@ Total pago: 3780
 Valor juros: 140
 Pagamento esperado: 140
 
+Nome: RAIZA ALEXANDRE DA SILVA
+Frequência: Semanal
+Valor contrato: 500
+Valor a receber: 575
+Vencimento: 05/03/26
+Dias vencidos: -2
+Data de registro: 23/07/25
+Cliente de: Sysjuros
+Juros: 15%
+Vezes pago: 35
+Total pago: 2625
+Valor juros: 75
+Pagamento esperado: 75
+
+Nome: DARLYSON SILVA DA SILVA
+Frequência: Semanal
+Valor contrato: 1000
+Valor a receber: 1150
+Vencimento: 09/03/26
+Dias vencidos: -6
+Data de registro: 23/07/25
+Cliente de: Sysjuros
+Juros: 15%
+Vezes pago: 33
+Total pago: 4950
+Valor juros: 150
+Pagamento esperado: 150
+
+Nome: Sullivan Messias De Almeida
+Frequência: Semanal
+Valor contrato: 800
+Valor a receber: 1600
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 23/07/25
+Cliente de: Sysjuros
+Parcelas: 25
+Parcelas pagas: 17
+Total pago: 3400
+Em aberto: 1600
+Valor parcela: 200
+Pagamento esperado: 100
+
+Nome: MIDIAN OLIVEIRA DO VALLE
+Frequência: Semanal
+Valor contrato: 500
+Valor a receber: 600
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 23/07/25
+Cliente de: Sysjuros
+Juros: 20%
+Vezes pago: 28
+Total pago: 2800
+Valor juros: 100
+Pagamento esperado: 100
+
+Nome: Cicera Muniz Guedes
+Frequência: Semanal
+Valor contrato: 800
+Valor a receber: 2070
+Vencimento: 07/03/26
+Dias vencidos: -4
+Data de registro: 23/07/25
+Cliente de: Sysjuros
+Juros: 15%
+Vezes pago: 30
+Total pago: 3600
+Valor juros: 120
+Pagamento esperado: 120
+
+Nome: Erica Carvalho Macedo
+Frequência: Semanal
+Valor contrato: 800
+Valor a receber: 1170
+Vencimento: 06/03/26
+Dias vencidos: -3
+Data de registro: 23/07/25
+Cliente de: Sysjuros
+Juros: 15%
+Vezes pago: 33
+Total pago: 3960
+Valor juros: 120
+Pagamento esperado: 120
+
+Nome: Claudio Pereira Da Silva
+Frequência: Semanal
+Valor contrato: 521.7391
+Valor a receber: 750
+Vencimento: 09/03/26
+Dias vencidos: -6
+Data de registro: 23/07/25
+Cliente de: Sysjuros
+Juros: 15%
+Vezes pago: 33
+Total pago: 3300
+Valor juros: 100
+Pagamento esperado: 100
+
+Nome: Francisca Maria Da Silva
+Frequência: Diária
+Valor contrato: 1000
+Valor a receber: 47500
+Vencimento: 03/03/26
+Dias vencidos: 0
+Data de registro: 23/07/25
+Cliente de: Sysjuros
+Parcelas: 513
+Parcelas pagas: 38
+Total pago: 3800
+Em aberto: 47500
+Valor parcela: 100
+Pagamento esperado: 100
+
 Nome: Joao Da Silva Mafra
 Frequência: Diária
 Valor contrato: 1000
-Valor a receber: 1150
-Vencimento: 02/03/26
+Valor a receber: 1100
+Vencimento: 03/03/26
 Dias vencidos: 0
 Data de registro: 16/09/25
 Cliente de: Sysjuros
 Parcelas: 73
-Parcelas pagas: 50
-Total pago: 2500
-Em aberto: 1150
+Parcelas pagas: 51
+Total pago: 2550
+Em aberto: 1100
 Valor parcela: 50
 Pagamento esperado: 50
+
+Nome: FABIO JUNIO ALVES PEREIRA
+Frequência: Semanal
+Valor contrato: 1000
+Valor a receber: 1150
+Vencimento: 05/03/26
+Dias vencidos: -2
+Data de registro: 23/07/25
+Cliente de: Sysjuros
+Juros: 15%
+Vezes pago: 33
+Total pago: 4950
+Valor juros: 150
+Pagamento esperado: 150
 
 Nome: MARIA FRANCILEIDE LIMA DE SOUZA_
 Frequência: Semanal
 Valor contrato: 0
 Valor a receber: 2450
 Vencimento: 03/03/26
-Dias vencidos: -1
+Dias vencidos: 0
 Data de registro: 05/11/25
 Cliente de: Sysjuros
 Parcelas: 17
@@ -4259,19 +4173,4 @@ Total pago: 3500
 Em aberto: 2450
 Valor parcela: 350
 Pagamento esperado: 350
-
-Nome: Sullivan Messias De Almeida
-Frequência: Semanal
-Valor contrato: 800
-Valor a receber: 1600
-Vencimento: 27/02/26
-Dias vencidos: 3
-Data de registro: 23/07/25
-Cliente de: Sysjuros
-Parcelas: 25
-Parcelas pagas: 17
-Total pago: 3400
-Em aberto: 1600
-Valor parcela: 200
-Pagamento esperado: 200
 
